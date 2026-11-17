@@ -15,7 +15,7 @@
 
 <p dir="rtl">המסמך כולו מתייחס לדגם <span dir="ltr">DA42 VI</span> עם מנועי <span dir="ltr">AE300</span> במודול <span dir="ltr">COWS</span> עבור <span dir="ltr">MSFS 2024</span>. אין להחליף את הנתונים בנתוני דגם <span dir="ltr">TDI</span> או גרסה אחרת.</p>
 
-<ol dir="rtl">
+<ol dir="rtl" type="1">
 <li dir="rtl"><strong>מטוס מורכב ודו־מנועי</strong> – לעומת הססנה <span dir="ltr">172</span>, יש לנהל כן נסע מתקפל, שני מנועים ולכן גם מערכות דלק וחשמל מפוצלות. פעולות תצורה ואימות מצב המנועים הופכות לחלק מרכזי בכל שלב טיסה.</li>
 <li dir="rtl"><strong>שני מנועים עם </strong><span dir="ltr"><strong>FADEC</strong></span> – כל מנוע <span dir="ltr">AE 300</span> מניע מדחף בעל פסיעה משתנה, אך ה־<span dir="ltr">FADEC</span> מנהל אוטומטית את הדלק, התערובת, סל״ד המנוע ופסיעת המדחף. בתא הטייס יש שתי ידיות כוח, ללא ידיות מצערת, תערובת או מדחף נפרדות.</li>
 <li dir="rtl"><strong>טיסה א־סימטרית</strong> – אובדן מנוע יוצר סבסוב וגלגול לעבר המנוע שאינו פועל ומקטין מאוד את הביצועים. יש לשלוט בכיוון תחילה, לשמור מהירות בטוחה, לזהות ולאמת את המנוע הפגוע ורק אז לבצע את הנוהל המתאים להמשך טיסה לפי הבד"ח המתאים.</li>
@@ -61,11 +61,11 @@
 
 <p dir="rtl">ב־<span dir="ltr">DA42 VI</span> יש להבחין בין שלושה מצבים של מדחף המנוע הפגוע.</p>
 
-<p dir="rtl"><span dir="ltr"><strong>1</strong></span><strong>) סל״ד המדחף גבוה מ־</strong><span dir="ltr"><strong>1,300 RPM</strong></span>: זהו תנאי המאפשר את פעולת ההנצה. לאחר זיהוי ואימות המנוע הפגוע, העברת <span dir="ltr">ENGINE MASTER</span> שלו ל־<span dir="ltr">OFF</span> פותחת את שסתום וסת המדחף ומאפשרת ללהבים לעבור למצב הנצה. לאחר שההנצה הושלמה מתקבל מצב הגרר הנמוך ביותר.</p>
-
-<p dir="rtl"><span dir="ltr"><strong>2</strong></span><strong>) סל״ד המדחף נמוך מ־</strong><span dir="ltr"><strong>1,300 RPM</strong></span><strong> והוא ממשיך להסתובב ברוח:</strong> מנגנון ההנצה אינו יכול להשלים הנצה, והמדחף שאינו מונץ פועל כבלם אוויר ויוצר גרר רב מאוד. מנוע שכבר הפסיק לפעול אינו יכול להעלות את הסל״ד; רק זרימת האוויר עשויה, בתנאים המתאימים, להאיץ את המדחף שוב מעל <span dir="ltr">1,300</span> סל״ד ולאפשר הנצה.</p>
-
-<p dir="rtl"><span dir="ltr"><strong>3</strong></span><strong>) המנוע והמדחף נעצרו, אך הלהבים אינם במצב הנצה:</strong> לא ניתן להניץ באמצעות מתג ה־<span dir="ltr">MASTER</span>, משום שהמדחף אינו מסתובב. המדחף העצור עדיין יוצר יותר גרר ממדחף מונץ, אך פחות ממדחף שאינו מונץ וממשיך להסתובב ברוח.</p>
+<ul dir="rtl">
+<li dir="rtl"><strong>סל״ד המדחף גבוה מ־</strong><span dir="ltr"><strong>1,300 RPM</strong></span>: זהו תנאי המאפשר את פעולת ההנצה. לאחר זיהוי ואימות המנוע הפגוע, העברת <span dir="ltr">ENGINE MASTER</span> שלו ל־<span dir="ltr">OFF</span> פותחת את שסתום וסת המדחף ומאפשרת ללהבים לעבור למצב הנצה. לאחר שההנצה הושלמה מתקבל מצב הגרר הנמוך ביותר.</li>
+<li dir="rtl"><strong>סל״ד המדחף נמוך מ־</strong><span dir="ltr"><strong>1,300 RPM</strong></span><strong> והוא ממשיך להסתובב ברוח:</strong> מנגנון ההנצה אינו יכול להשלים הנצה, והמדחף שאינו מונץ פועל כבלם אוויר ויוצר גרר רב מאוד. מנוע שכבר הפסיק לפעול אינו יכול להעלות את הסל״ד; רק זרימת האוויר עשויה, בתנאים המתאימים, להאיץ את המדחף שוב מעל <span dir="ltr">1,300</span> סל״ד ולאפשר הנצה.</li>
+<li dir="rtl"><strong>המנוע והמדחף נעצרו, אך הלהבים אינם במצב הנצה:</strong> לא ניתן להניץ באמצעות מתג ה־<span dir="ltr">MASTER</span>, משום שהמדחף אינו מסתובב. המדחף העצור עדיין יוצר יותר גרר ממדחף מונץ, אך פחות ממדחף שאינו מונץ וממשיך להסתובב ברוח.</li>
+</ul>
 
 <p dir="rtl">לכן סדר הגרר, מהנמוך לגבוה, הוא: מדחף מונץ — מדחף עצור שאינו מונץ — מדחף שאינו מונץ ומסתובב ברוח.</p>
 
@@ -520,9 +520,9 @@
 </thead>
 <tbody>
 <tr>
-<td dir="rtl" align="right" width="2500"><span dir="ltr">4,000&nbsp;ft&nbsp;[1,219&nbsp;m]</span></td>
-<td dir="rtl" align="right" width="3000"><span dir="ltr">60%</span></td>
-<td dir="rtl" align="right" width="4500"><span dir="ltr">142&nbsp;KTAS&nbsp;[263&nbsp;kph]</span><br><span dir="ltr">10.3&nbsp;US&nbsp;gal/h&nbsp;[39.0&nbsp;L/h]</span></td>
+<td dir="rtl" align="right" width="2500"><span dir="ltr"><strong>4,000&nbsp;ft&nbsp;[1,219&nbsp;m]</strong></span></td>
+<td dir="rtl" align="right" width="3000"><span dir="ltr"><strong>60%</strong></span><strong> — לטווח</strong></td>
+<td dir="rtl" align="right" width="4500"><span dir="ltr"><strong>142&nbsp;KTAS&nbsp;[263&nbsp;kph]</strong></span><br><span dir="ltr"><strong>10.3&nbsp;US&nbsp;gal/h&nbsp;[39.0&nbsp;L/h]</strong></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right"><span dir="ltr">4,000&nbsp;ft&nbsp;[1,219&nbsp;m]</span></td>
@@ -535,9 +535,9 @@
 <td dir="rtl" align="right"><span dir="ltr">169&nbsp;KTAS&nbsp;[313&nbsp;kph]</span><br><span dir="ltr">16.6&nbsp;US&nbsp;gal/h&nbsp;[62.8&nbsp;L/h]</span></td>
 </tr>
 <tr>
-<td dir="rtl" align="right"><span dir="ltr">8,000&nbsp;ft&nbsp;[2,438&nbsp;m]</span></td>
-<td dir="rtl" align="right"><span dir="ltr">60%</span></td>
-<td dir="rtl" align="right"><span dir="ltr">147&nbsp;KTAS&nbsp;[272&nbsp;kph]</span><br><span dir="ltr">10.3&nbsp;US&nbsp;gal/h&nbsp;[39.0&nbsp;L/h]</span></td>
+<td dir="rtl" align="right"><span dir="ltr"><strong>8,000&nbsp;ft&nbsp;[2,438&nbsp;m]</strong></span></td>
+<td dir="rtl" align="right"><span dir="ltr"><strong>60%</strong></span><strong> — לטווח</strong></td>
+<td dir="rtl" align="right"><span dir="ltr"><strong>147&nbsp;KTAS&nbsp;[272&nbsp;kph]</strong></span><br><span dir="ltr"><strong>10.3&nbsp;US&nbsp;gal/h&nbsp;[39.0&nbsp;L/h]</strong></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right"><span dir="ltr">8,000&nbsp;ft&nbsp;[2,438&nbsp;m]</span></td>
@@ -567,7 +567,7 @@
 </tbody>
 </table>
 
-<p dir="rtl"><strong>לטווח הגדול ביותר מבין האפשרויות בטבלה:</strong> כוח <span dir="ltr">60%</span> בגובה לחץ <span dir="ltr">12,000&nbsp;ft&nbsp;[3,658&nbsp;m]</span>. זו השורה המודגשת: היא נותנת את המרחק הגדול ביותר לכל כמות דלק באוויר שקט. הבחירה אינה כוללת את השפעת הרוח, דלק הטיפוס והרזרבות; אין להסיק שהיא מיטבית לכל מסלול או לכל גובה.</p>
+<p dir="rtl"><strong>לטווח הגדול ביותר מבין האפשרויות בטבלה:</strong> בכל גובה, כוח <span dir="ltr">60%</span> נותן את המרחק הגדול ביותר לכל כמות דלק באוויר שקט; שורות אלו מודגשות ומסומנות ״לטווח״. מבין כל השורות, המרחק ליחידת דלק הוא הגדול ביותר בגובה לחץ <span dir="ltr">12,000&nbsp;ft&nbsp;[3,658&nbsp;m]</span> ובכוח <span dir="ltr">60%</span>. ההשוואה אינה כוללת רוח, דלק טיפוס ורזרבות ואינה קובעת בחירה מיטבית לכל מסלול.</p>
 
 ### מהירויות גישה בשני מנועים
 
@@ -602,7 +602,7 @@
 
 ## תכנון והכנה לטיסה
 
-<ol dir="rtl">
+<ol dir="rtl" type="1">
 <li dir="rtl">משקל ומרכז כובד — חושבו.</li>
 <li dir="rtl">דלק שמיש ורזרבות — חושבו.</li>
 <li dir="rtl">מרחקי המראה ונחיתה — נבדקו לתנאים.</li>
@@ -618,7 +618,7 @@
 
 <p dir="rtl">תיאום הקשר תלוי בכיסוי הבקרה ובנוהל המקומי. ללא בקרה מתאימה משתמשים ב־<span dir="ltr">UNICOM/CTAF</span>. להמשך ההתנעה השאר <span dir="ltr">ELECTRIC MASTER</span> במצב <span dir="ltr">ON</span>.</p>
 
-<ol dir="rtl">
+<ol dir="rtl" type="1">
 <li dir="rtl">בדיקה חיצונית — הושלמה.</li>
 <li dir="rtl">נוסעים — תודרכו.</li>
 <li dir="rtl">דלת אחורית — סגורה ונעולה.</li>
@@ -656,7 +656,7 @@
 
 <p dir="rtl"><strong>מגבלת מתנע:</strong> עד <span dir="ltr">10</span> שניות לניסיון. מתחת ל־‎<span dir="ltr">−22°C</span> המתן <span dir="ltr">60</span> שניות בין ניסיונות. חיווי <span dir="ltr">STARTER</span> שנותר פעיל מחייב הפסקת ההתנעה: ידית הכוח הרלוונטית <span dir="ltr">IDLE, ENGINE MASTER</span> שלה <span dir="ltr">OFF, ELECTRIC MASTER OFF</span> והפסק הכנות לטיסה. סרק במודול עשוי לעלות בשדה גבוה.</p>
 
-<ol dir="rtl">
+<ol dir="rtl" type="1">
 <li dir="rtl">פנס נצנוץ — <span dir="ltr">ON</span>, בהתחשב בתנועה סמוכה.</li>
 <li dir="rtl">ידיות כוח — <span dir="ltr">IDLE</span>.</li>
 <li dir="rtl">משאבות דלק — <span dir="ltr">OFF</span>.</li>
@@ -685,7 +685,7 @@
 
 <p dir="rtl">בדיקת חימום על הקרקע עשויה להציג <span dir="ltr">STAL HT FAIL</span> עקב התחממות החיישן. אין לקבוע אוטומטית שבדיקה נכשלה רק מפני שהחיווי הופיע על הקרקע; תקלה מתמשכת נבדקת לפי הנוהל המתאים.</p>
 
-<ol dir="rtl">
+<ol dir="rtl" type="1">
 <li dir="rtl">חופה ודלת — סגורות ונעולות.</li>
 <li dir="rtl">חגורות — מהודקות.</li>
 <li dir="rtl">בלם חניה — מופעל.</li>
@@ -721,7 +721,7 @@
 
 <p dir="rtl">בדיקת <span dir="ltr">CROSSFEED</span> מתבצעת כ־<span dir="ltr">30</span> שניות. זו החרגת הבדיקה המתועדת להפעלת שני הבוררים יחד ב־<span dir="ltr">CROSSFEED</span>; אין להשאירם כך בפעולה רגילה ואין להמריא ב־<span dir="ltr">CROSSFEED</span>. עצור במקום בטוח לביצוע הבדיקה אם היא מסיחה מההסעה.</p>
 
-<ol dir="rtl">
+<ol dir="rtl" type="1">
 <li dir="rtl">טרנספונדר — מצב ודיווח גובה לפי נוהל השדה/הבקר.</li>
 <li dir="rtl">בלמים — בדוק בתחילת התנועה.</li>
 <li dir="rtl">היגוי גלגל אף — בדוק באמצעות הדוושות.</li>
@@ -835,7 +835,7 @@
 
 <p dir="rtl"><strong>בדיקת </strong><span dir="ltr"><strong>ECU</strong></span><strong> או כוח לא תקינים — הפסק הכנות לטיסה.</strong></p>
 
-<ol dir="rtl">
+<ol dir="rtl" type="1">
 <li dir="rtl">המטוס — אל מול הרוח, ככל האפשר.</li>
 <li dir="rtl">בלם חניה — מופעל.</li>
 <li dir="rtl">ידיות כוח — <span dir="ltr">IDLE</span>.</li>
@@ -879,7 +879,7 @@
 
 <p dir="rtl">בצמדי המהירויות: עד <span dir="ltr">4,189&nbsp;lb&nbsp;[1,900&nbsp;kg]</span> / מעל <span dir="ltr">4,189&nbsp;lb&nbsp;[1,900&nbsp;kg]</span>. מבצעים רק את ענף ההמראה שנבחר. <span dir="ltr">MAX</span> מוגבל לחמש דקות. סיוע בבלמי אצבע ברוח צד מאריך את ריצת ההמראה ואינו שיטת ההיגוי הרגילה.</p>
 
-<ol dir="rtl">
+<ol dir="rtl" type="1">
 <li dir="rtl">כיוון המסלול — אמת מול <span dir="ltr">PFD</span> ומצפן.</li>
 <li dir="rtl">ידיות כוח — יחד ובהדרגה ל־<span dir="ltr">MAX</span>.</li>
 <li dir="rtl">כוח וחיוויי מנועים — מלאים וסימטריים; אחרת הפסק.</li>
@@ -902,7 +902,7 @@
 
 <p dir="rtl">טמפרטורת שמן או נוזל קירור בתחום הצהוב בטיפוס: הגדל מהירות ב־<span dir="ltr">10&nbsp;kt&nbsp;[19&nbsp;kph]</span> והפחת כוח ב־<span dir="ltr">10%</span> לשיפור הקירור; קצב הטיפוס יקטן. בדוק את ההתראה המתאימה אם החריגה נמשכת.</p>
 
-<ol dir="rtl">
+<ol dir="rtl" type="1">
 <li dir="rtl">כן נסע — <span dir="ltr">UP</span>; נורת <span dir="ltr">UNSAFE</span> כבויה.</li>
 <li dir="rtl">מדפים — <span dir="ltr">UP</span>.</li>
 <li dir="rtl">מהירות עד <span dir="ltr">4,189&nbsp;lb&nbsp;[1,900&nbsp;kg]</span> — <span dir="ltr">90&nbsp;KIAS&nbsp;[167&nbsp;kph]</span>.</li>
@@ -921,7 +921,7 @@
 
 <p dir="rtl">מיכלי עזר, אם מותקנים ומתודלקים: הדלק שבהם זמין למנועים רק לאחר העברתו למיכלים הראשיים. מבצעים שני מחזורי העברה, כמפורט להלן. משאבות <span dir="ltr">AUX PUMP</span> הן משאבות העברה, ולא משאבות ההזנה למנועים.</p>
 
-<ol dir="rtl">
+<ol dir="rtl" type="1">
 <li dir="rtl">בגובה השיוט — האץ והתייצב.</li>
 <li dir="rtl">כוח — בחר לפי טבלת שיוט; עד <span dir="ltr">92%</span>.</li>
 <li dir="rtl">קיזוזים — כוון.</li>
@@ -944,7 +944,7 @@
 
 ## בד״ח הנמכה
 
-<ol dir="rtl">
+<ol dir="rtl" type="1">
 <li dir="rtl">תכנון הנמכה והאטה — הושלם מוקדם.</li>
 <li dir="rtl"><span dir="ltr">ATIS</span> ומזג אוויר — התקבלו.</li>
 <li dir="rtl">גובה יעד ו־<span dir="ltr">QNH</span> — כוונו ואומתו.</li>
@@ -963,7 +963,7 @@
 
 <p dir="rtl">בגישה בשני מנועים ניתן להיעזר בגרר כן הנסע להאטה: הורדה וטיסה עם כן נסע מורד מותרות עד <span dir="ltr">188&nbsp;KIAS&nbsp;[348&nbsp;kph]</span>, כמו <span dir="ltr">VNE</span>; קיפול מוגבל ל־<span dir="ltr">152&nbsp;KIAS&nbsp;[282&nbsp;kph]</span>. מגבלות המדפים נפרדות. עם מנוע אחד, השאר כן נסע ומדפים <span dir="ltr">UP</span> עד שהנחיתה מובטחת.</p>
 
-<ol dir="rtl">
+<ol dir="rtl" type="1">
 <li dir="rtl">מסלול, גישה ו־<span dir="ltr">QNH</span> — אומתו.</li>
 <li dir="rtl"><strong>עם בקרה — קבל מרשה גישה כנדרש.</strong></li>
 <li dir="rtl"><strong>ללא בקרה — הכרז גישה וכוונות ב־</strong><span dir="ltr"><strong>UNICOM/CTAF</strong></span><strong>.</strong></li>
@@ -987,7 +987,7 @@
 
 ## בד״ח נחיתה
 
-<ol dir="rtl">
+<ol dir="rtl" type="1">
 <li dir="rtl">גישה — מיוצבת; אחרת הליכה סביב.</li>
 <li dir="rtl">מהירות — לפי טבלת המשקל והתצורה, בתיקון לתנאים.</li>
 <li dir="rtl">כן נסע — <span dir="ltr">DOWN</span>, שלוש ירוקות.</li>
@@ -1007,7 +1007,7 @@
 
 ## בד״ח הליכה סביב בשני מנועים
 
-<ol dir="rtl">
+<ol dir="rtl" type="1">
 <li dir="rtl">ידיות כוח — יחד ובהדרגה ל־<span dir="ltr">MAX</span>.</li>
 <li dir="rtl">כיוון — שמור; ודא כוח סימטרי.</li>
 <li dir="rtl">מדפים — <span dir="ltr">APP</span>.</li>
@@ -1026,7 +1026,7 @@
 
 ## בד״ח אחרי נחיתה ופינוי מסלול
 
-<ol dir="rtl">
+<ol dir="rtl" type="1">
 <li dir="rtl">כל המטוס — מעבר לנקודת ההמתנה, פנוי מהמסלול.</li>
 <li dir="rtl">ידיות כוח — הכוח המזערי להסעה.</li>
 <li dir="rtl"><span dir="ltr">ALTERNATE AIR</span> — <span dir="ltr">CLOSED</span>.</li>
@@ -1049,7 +1049,7 @@
 
 <p dir="rtl"><strong>זהירות:</strong> מכבים מנוע באמצעות <span dir="ltr">ENGINE MASTER</span>. אין להשתמש בבורר הדלק לכיבוי מנוע: הדבר עלול לפגוע במשאבת הלחץ הגבוה. אין להסיר חשמל לפני סיום שמירת נתוני המנוע.</p>
 
-<ol dir="rtl">
+<ol dir="rtl" type="1">
 <li dir="rtl">בלם חניה — מופעל.</li>
 <li dir="rtl">עומס מנועים — עד <span dir="ltr">10%</span> למשך דקה לפחות לקירור.</li>
 <li dir="rtl">מנועים ומערכות — בדוק חיוויים.</li>
@@ -1080,7 +1080,7 @@
 
 <p dir="rtl">הפסק המראה. שלוש פעולות ניתוק המערכות הן ענף מותנה בזמן שנותר ובסכנת התנגשות; אין לבצע אותן אוטומטית במקום בלימה ושליטה.</p>
 
-<ol dir="rtl">
+<ol dir="rtl" type="1">
 <li dir="rtl">שתי ידיות הכוח — <span dir="ltr">IDLE</span>.</li>
 <li dir="rtl">כיוון — שמור באמצעות הגה כיוון.</li>
 <li dir="rtl">בלמים — לפי הצורך.</li>
@@ -1100,7 +1100,7 @@
 <li dir="rtl"><strong>משמעות </strong><span dir="ltr"><strong>Vmca</strong></span> — מהירות השליטה הכיוונית המזערית באוויר עם מנוע אחד מושבת, בתנאי ההדגמה. מתחתיה הגה הכיוון עלול לא להספיק נגד הדחף הא־סימטרי. זו אינה מהירות טיפוס!</li>
 </ul>
 
-<ol dir="rtl">
+<ol dir="rtl" type="1">
 <li dir="rtl"><span dir="ltr">AP / YD</span> — נתק.</li>
 <li dir="rtl">כיוון ומהירות — שלוט מיד.</li>
 <li dir="rtl">גלגלים למטה ושטח מתאים נותר — הפסק ונחת ישר לפנים.</li>
@@ -1131,7 +1131,7 @@
 <li dir="rtl"><strong>הנצה</strong> — נדרש סל״ד מדחף מעל <span dir="ltr">1,300 RPM</span>. אם הסל״ד נמוך והמדחף לא הונץ, הגדל מהירות בלי להקריב שליטה או מרווח מכשולים.</li>
 </ul>
 
-<ol dir="rtl">
+<ol dir="rtl" type="1">
 <li dir="rtl"><span dir="ltr">AP / YD</span> — נתק.</li>
 <li dir="rtl">כיוון ונתיב טיסה — שלוט תחילה.</li>
 <li dir="rtl">מהירות — <span dir="ltr">85&nbsp;KIAS&nbsp;[157&nbsp;kph]</span> לטיפוס מיטבי במנוע יחיד. אין צורך להאט למהירות זו ממהירות גבוהה יותר אם אין צורך לטפס!</li>
@@ -1161,7 +1161,7 @@
 
 <p dir="rtl"><strong>הוספת גרר:</strong> כן נסע ומדפים נשארים <span dir="ltr">UP</span> עד שהנחיתה מובטחת. אין להעתיק גובה הקפה קבוע או להאריך סופית אוטומטית; תכנן נתיב המאפשר להגיע למסלול גם עם הביצועים הזמינים. מהירויות הגישה כאן מיועדות למנוע יחיד; טבלת הנחיתה הרגילה תלויה במשקל ואינה מחליפה נוהל זה. הוראת <span dir="ltr">OFF/CROSSFEED</span> שייכת לשלב הטיסה שלפני ההכנה לגישה; אין לחזור אליה לאחר השלמת תצורת הדלק לגישה.</p>
 
-<ol dir="rtl">
+<ol dir="rtl" type="1">
 <li dir="rtl"><span dir="ltr">AP / YD</span> — מנותקים.</li>
 <li dir="rtl">משענות מתכווננות — זקופות ונעולות.</li>
 <li dir="rtl">חגורות — מהודקות.</li>
@@ -1191,7 +1191,7 @@
 
 <p dir="rtl"><strong>אזהרת ביצועים:</strong> הליכה סביב במנוע יחיד אינה מומלצת מתחת ל־<span dir="ltr">800&nbsp;ft&nbsp;AGL&nbsp;[244&nbsp;m]</span>. גם מעל גובה זה אין הבטחת טיפוס. הסרת גרר עלולה להיות כרוכה באובדן גובה; תכנן מראש את אפשרות הנחיתה. אם לא ניתן לטפס, בחר שטח נחיתה בר־השגה, שמור שליטה והימנע ממכשולים. רשימה זו אינה בד״ח נחיתת אונס מלא.</p>
 
-<ol dir="rtl">
+<ol dir="rtl" type="1">
 <li dir="rtl">ידית כוח המנוע הפעיל — <span dir="ltr">MAX</span>.</li>
 <li dir="rtl">כיוון — שמור באמצעות הגה כיוון ומאזנות.</li>
 <li dir="rtl">מהירות — <span dir="ltr">85&nbsp;KIAS&nbsp;[157&nbsp;kph]</span> או כנדרש.</li>
