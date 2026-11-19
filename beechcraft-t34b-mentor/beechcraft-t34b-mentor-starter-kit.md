@@ -16,7 +16,7 @@
 <ol dir="rtl" type="1">
 <li dir="rtl"><strong>מטוס מורכב</strong> – בניגוד לססנה <span dir="ltr">172</span> הבסיסית, ניהול הטיסה כולל כן נסע מתקפל ומדחף בעל מהירות קבועה, נוסף על המדפים. לכן יש לבצע בדיקות תצורה חוזרות, במיוחד לאחר ההמראה ולפני הנחיתה.</li>
 <li dir="rtl"><strong>כוח וניהול מנוע</strong> – מנוע <span dir="ltr">Continental IO-520-BB</span> בהספק של כ<span dir="ltr">-285</span> כ״ס מניע מדחף במהירות קבועה. במקום מצערת ותערובת בלבד, הטייס מנהל גם סל״ד באמצעות ידית המדחף ועוקב אחר לחץ סעפת, סל״ד, זרימת דלק וטמפרטורות.</li>
-<li dir="rtl"><strong>מהירות ואנרגיה</strong> – בתצורת נחיתה המנטור קרוב לססנה. מהירות ההזדקרות עם כן נסע ומדפים למטה <span dir="ltr">(Vso)</span> היא כ־<span dir="ltr">50&nbsp;KIAS&nbsp;[93&nbsp;kph]</span>. מהירות הרוטציה <span dir="ltr">(Vr)</span> היא <span dir="ltr">55&nbsp;KIAS&nbsp;[102&nbsp;kph]</span> בשני המטוסים. יעד הפיינל עם מדפים מלאים הוא <span dir="ltr">70–75&nbsp;KIAS&nbsp;[130–139&nbsp;kph]</span> במנטור ו־<span dir="ltr">60–70&nbsp;KIAS&nbsp;[111–130&nbsp;kph]</span> בססנה. בתצורה נקייה המנטור מהיר יותר: מהירות הטיפוס <span dir="ltr">(Vy)</span> היא <span dir="ltr">95&nbsp;KIAS&nbsp;[176&nbsp;kph]</span> במנטור ו־<span dir="ltr">74&nbsp;KIAS&nbsp;[137&nbsp;kph]</span> בססנה. מהירויות השיוט הן כ־<span dir="ltr">165&nbsp;KTAS&nbsp;[306&nbsp;kph]</span> וכ־<span dir="ltr">124&nbsp;KTAS&nbsp;[230&nbsp;kph]</span>, בהתאמה. עם כן נסע מקופל וללא מדפים המנטור מאיץ מהר בהנמכה. תכנן את ההאטה והמעבר לתצורת נחיתה לפני הכניסה להקפה או לגישה.</li>
+<li dir="rtl"><strong>מהירות ואנרגיה</strong> – בתצורת נחיתה המנטור קרוב לססנה. מהירות ההזדקרות עם כן נסע ומדפים למטה <span dir="ltr">(Vso)</span> היא כ־<span dir="rtl"><span dir="ltr">50&nbsp;KIAS</span>&nbsp;<span dir="ltr">[93&nbsp;kph]</span></span>. מהירות הרוטציה <span dir="ltr">(Vr)</span> היא <span dir="rtl"><span dir="ltr">55&nbsp;KIAS</span>&nbsp;<span dir="ltr">[102&nbsp;kph]</span></span> בשני המטוסים. יעד הפיינל עם מדפים מלאים הוא <span dir="rtl"><span dir="ltr">70&#8288;–&#8288;75&nbsp;KIAS</span>&nbsp;<span dir="ltr">[130&#8288;–&#8288;139&nbsp;kph]</span></span> במנטור ו־<span dir="rtl"><span dir="ltr">60&#8288;–&#8288;70&nbsp;KIAS</span>&nbsp;<span dir="ltr">[111&#8288;–&#8288;130&nbsp;kph]</span></span> בססנה. בתצורה נקייה המנטור מהיר יותר: מהירות הטיפוס <span dir="ltr">(Vy)</span> היא <span dir="rtl"><span dir="ltr">95&nbsp;KIAS</span>&nbsp;<span dir="ltr">[176&nbsp;kph]</span></span> במנטור ו־<span dir="rtl"><span dir="ltr">74&nbsp;KIAS</span>&nbsp;<span dir="ltr">[137&nbsp;kph]</span></span> בססנה. מהירויות השיוט הן כ־<span dir="rtl"><span dir="ltr">165&nbsp;KTAS</span>&nbsp;<span dir="ltr">[306&nbsp;kph]</span></span> וכ־<span dir="rtl"><span dir="ltr">124&nbsp;KTAS</span>&nbsp;<span dir="ltr">[230&nbsp;kph]</span></span>, בהתאמה. עם כן נסע מקופל וללא מדפים המנטור מאיץ מהר בהנמכה. תכנן את ההאטה והמעבר לתצורת נחיתה לפני הכניסה להקפה או לגישה.</li>
 <li dir="rtl"><strong>משקל ויציבות</strong> – משקל ההמראה המרבי גבוה מזה של הססנה, והכנף קטנה יחסית ולכן בעלת העמסה גבוהה יותר (העמסת הכנף היא היחס בין משקל המטוס לשטח הכנף, והעמסת כנף גבוהה יותר מובילה למטוס יותר יציב במזג אוויר מאתגר, אך גם גורמת למהירות הזדקרות גבוהה יותר מאשר בכנף בעלת העמסה נמוכה). המטוס מרגיש יציב ומרוסן יותר ברוחות ובאופן כללי בפיינל, ובתצורת נחיתה הוא נוח וסלחני, אך עוצר פחות בקלות אם מגיעים עם עודף מהירות.</li>
 <li dir="rtl"><strong>תצורת הכנף, הזנב והחופה</strong> – למנטור כנף תחתית וזנב קונבנציונלי, הכולל מייצב אופקי, הגה גובה, מייצב אנכי והגה כיוון. הטייסים יושבים בטנדם תחת חופה ארוכה. לעומת הכנף העילית של הססנה, הראות לתוך פנייה טובה יותר, אך הכנף התחתונה מגבילה את הראות כלפי מטה בטיסה אופקית. הטייס יושב גבוה יותר מאשר בססנה ולכן הראות קדימה טובה יותר, אפילו שהמנוע גדול יותר.</li>
 <li dir="rtl"><strong>אוויוניקה מוכרת</strong> – תצורת הייחוס של הססנה היא <span dir="ltr">Cessna 172SP</span> עם לוח מכשירים אנלוגי ויחידות <span dir="ltr">GNS</span>. בתא הקדמי של המנטור מותקנים <span dir="ltr">Garmin GNS 430</span>, מחוון <span dir="ltr">HSI</span> וטייס אוטומטי <span dir="ltr">Bendix/King KAP 140</span>. יש להכיר את מיקומי המכשירים, את מיקומי המפסקים (חלקם מימין ומשמאל למושב הטייס) ואת ידית כן הנסע לפני הטיסה הראשונה.</li>
@@ -250,38 +250,38 @@
 <tbody>
 <tr>
 <td dir="rtl" align="right" width="2500"><span dir="ltr">Vr</span><br>(מהירות רוטציה)</td>
-<td dir="rtl" align="right" width="3000"><span dir="ltr">55&nbsp;KIAS&nbsp;[102&nbsp;kph]</span></td>
-<td dir="rtl" align="right" width="4500">רגילה: <span dir="ltr">55&nbsp;KIAS&nbsp;[102&nbsp;kph]</span><br>קצרה: <span dir="ltr">50&nbsp;KIAS&nbsp;[93&nbsp;kph]</span></td>
+<td dir="rtl" align="right" width="3000"><span dir="rtl"><span dir="ltr">55&nbsp;KIAS</span>&nbsp;<span dir="ltr">[102&nbsp;kph]</span></span></td>
+<td dir="rtl" align="right" width="4500">רגילה: <span dir="rtl"><span dir="ltr">55&nbsp;KIAS</span>&nbsp;<span dir="ltr">[102&nbsp;kph]</span></span><br>קצרה: <span dir="rtl"><span dir="ltr">50&nbsp;KIAS</span>&nbsp;<span dir="ltr">[93&nbsp;kph]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right"><span dir="ltr">Vx</span><br>(זווית טיפוס מיטבית)</td>
-<td dir="rtl" align="right"><span dir="ltr">62&nbsp;KIAS&nbsp;[115&nbsp;kph]</span></td>
-<td dir="rtl" align="right">כ־<span dir="ltr">70&nbsp;KIAS&nbsp;[130&nbsp;kph]</span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">62&nbsp;KIAS</span>&nbsp;<span dir="ltr">[115&nbsp;kph]</span></span></td>
+<td dir="rtl" align="right">כ־<span dir="rtl"><span dir="ltr">70&nbsp;KIAS</span>&nbsp;<span dir="ltr">[130&nbsp;kph]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right"><span dir="ltr">Vy</span><br>(קצב טיפוס מיטבי)</td>
-<td dir="rtl" align="right"><span dir="ltr">74&nbsp;KIAS&nbsp;[137&nbsp;kph]</span> בגובה פני הים</td>
-<td dir="rtl" align="right"><span dir="ltr">95&nbsp;KIAS&nbsp;[176&nbsp;kph]</span> בגובה פני הים<br>טיפוס שיוט: <span dir="ltr">100&nbsp;KIAS&nbsp;[185&nbsp;kph]</span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">74&nbsp;KIAS</span>&nbsp;<span dir="ltr">[137&nbsp;kph]</span></span> בגובה פני הים</td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">95&nbsp;KIAS</span>&nbsp;<span dir="ltr">[176&nbsp;kph]</span></span> בגובה פני הים<br>טיפוס שיוט: <span dir="rtl"><span dir="ltr">100&nbsp;KIAS</span>&nbsp;<span dir="ltr">[185&nbsp;kph]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right"><span dir="ltr">Va</span><br>(מהירות תמרון)</td>
-<td dir="rtl" align="right"><span dir="ltr">105&nbsp;KIAS&nbsp;[194&nbsp;kph]</span> במשקל מרבי</td>
-<td dir="rtl" align="right"><span dir="ltr">148&nbsp;KIAS&nbsp;[274&nbsp;kph]</span> במשקל מרבי</td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">105&nbsp;KIAS</span>&nbsp;<span dir="ltr">[194&nbsp;kph]</span></span> במשקל מרבי</td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">148&nbsp;KIAS</span>&nbsp;<span dir="ltr">[274&nbsp;kph]</span></span> במשקל מרבי</td>
 </tr>
 <tr>
 <td dir="rtl" align="right"><span dir="ltr">Vs</span><br>(הזדקרות בתצורה נקייה)</td>
-<td dir="rtl" align="right"><span dir="ltr">48&nbsp;KIAS&nbsp;[89&nbsp;kph]</span></td>
-<td dir="rtl" align="right"><span dir="ltr">61.5&nbsp;KIAS&nbsp;[114&nbsp;kph]</span> במשקל מרבי, כוח סרק, כן נסע ומדפים למעלה.<br>תחילת הקשת הירוקה: <span dir="ltr">62&nbsp;KIAS&nbsp;[115&nbsp;kph]</span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">48&nbsp;KIAS</span>&nbsp;<span dir="ltr">[89&nbsp;kph]</span></span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">61.5&nbsp;KIAS</span>&nbsp;<span dir="ltr">[114&nbsp;kph]</span></span> במשקל מרבי, כוח סרק, כן נסע ומדפים למעלה.<br>תחילת הקשת הירוקה: <span dir="rtl"><span dir="ltr">62&nbsp;KIAS</span>&nbsp;<span dir="ltr">[115&nbsp;kph]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right"><span dir="ltr">Vso</span><br>(הזדקרות בתצורת נחיתה)</td>
-<td dir="rtl" align="right"><span dir="ltr">40&nbsp;KIAS&nbsp;[74&nbsp;kph]</span></td>
-<td dir="rtl" align="right"><span dir="ltr">50.5&nbsp;KIAS&nbsp;[94&nbsp;kph]</span> במשקל מרבי, כוח סרק, כן נסע ומדפים למטה.<br>תחילת הקשת הלבנה: <span dir="ltr">50&nbsp;KIAS&nbsp;[93&nbsp;kph]</span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">40&nbsp;KIAS</span>&nbsp;<span dir="ltr">[74&nbsp;kph]</span></span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">50.5&nbsp;KIAS</span>&nbsp;<span dir="ltr">[94&nbsp;kph]</span></span> במשקל מרבי, כוח סרק, כן נסע ומדפים למטה.<br>תחילת הקשת הלבנה: <span dir="rtl"><span dir="ltr">50&nbsp;KIAS</span>&nbsp;<span dir="ltr">[93&nbsp;kph]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right"><span dir="ltr">Vglide</span><br>(גלישה מיטבית לאחר אובדן כוח)</td>
-<td dir="rtl" align="right"><span dir="ltr">68&nbsp;KIAS&nbsp;[126&nbsp;kph]</span></td>
-<td dir="rtl" align="right"><span dir="ltr">90&nbsp;KIAS&nbsp;[167&nbsp;kph]</span> בתצורה נקייה עם חופה סגורה ומדחף ב־<span dir="ltr">DECREASE</span> מלא.<br>בגובה עד <span dir="ltr">1,000&nbsp;ft&nbsp;[305&nbsp;m]</span>:<br>ללא מדפים: <span dir="ltr">80&nbsp;KIAS&nbsp;[148&nbsp;kph]</span><br>עם מדפים: <span dir="ltr">75&nbsp;KIAS&nbsp;[139&nbsp;kph]</span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">68&nbsp;KIAS</span>&nbsp;<span dir="ltr">[126&nbsp;kph]</span></span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">90&nbsp;KIAS</span>&nbsp;<span dir="ltr">[167&nbsp;kph]</span></span> בתצורה נקייה עם חופה סגורה ומדחף ב־<span dir="ltr">DECREASE</span> מלא.<br>בגובה עד <span dir="ltr">1,000&nbsp;ft&nbsp;[305&nbsp;m]</span>:<br>ללא מדפים: <span dir="rtl"><span dir="ltr">80&nbsp;KIAS</span>&nbsp;<span dir="ltr">[148&nbsp;kph]</span></span><br>עם מדפים: <span dir="rtl"><span dir="ltr">75&nbsp;KIAS</span>&nbsp;<span dir="ltr">[139&nbsp;kph]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right">יחס גלישה<br>(מרחק אופקי לעומת איבוד גובה)</td>
@@ -303,32 +303,32 @@
 <tr>
 <td dir="rtl" align="right" width="2500"><span dir="ltr">Vle</span><br>(מהירות מרבית עם כן הנסע מורד)</td>
 <td dir="rtl" align="right" width="3000">כן נסע קבוע</td>
-<td dir="rtl" align="right" width="4500"><span dir="ltr">109&nbsp;KIAS&nbsp;[202&nbsp;kph]</span></td>
+<td dir="rtl" align="right" width="4500"><span dir="rtl"><span dir="ltr">109&nbsp;KIAS</span>&nbsp;<span dir="ltr">[202&nbsp;kph]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right"><span dir="ltr">Vlo</span><br>(מהירות מרבית להורדת כן הנסע)</td>
 <td dir="rtl" align="right">כן נסע קבוע</td>
-<td dir="rtl" align="right"><span dir="ltr">109&nbsp;KIAS&nbsp;[202&nbsp;kph]</span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">109&nbsp;KIAS</span>&nbsp;<span dir="ltr">[202&nbsp;kph]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right"><span dir="ltr">Vfe</span><br>(מהירות מרבית עם מדפים מורדים)</td>
-<td dir="rtl" align="right"><span dir="ltr">10°: 110&nbsp;KIAS&nbsp;[204&nbsp;kph]</span><br><span dir="ltr">20°–30°: 85&nbsp;KIAS&nbsp;[157&nbsp;kph]</span></td>
-<td dir="rtl" align="right"><span dir="ltr">109&nbsp;KIAS&nbsp;[202&nbsp;kph]</span></td>
+<td dir="rtl" align="right"><span dir="ltr">10°: </span><span dir="rtl"><span dir="ltr">110&nbsp;KIAS</span>&nbsp;<span dir="ltr">[204&nbsp;kph]</span></span><br><span dir="ltr">20°–30°: </span><span dir="rtl"><span dir="ltr">85&nbsp;KIAS</span>&nbsp;<span dir="ltr">[157&nbsp;kph]</span></span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">109&nbsp;KIAS</span>&nbsp;<span dir="ltr">[202&nbsp;kph]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right"><span dir="ltr">Vno</span><br>(מהירות מרבית לשיוט מבני רגיל – ראש הקשת הירוקה)</td>
-<td dir="rtl" align="right"><span dir="ltr">129&nbsp;KIAS&nbsp;[239&nbsp;kph]</span></td>
-<td dir="rtl" align="right"><span dir="ltr">152&nbsp;KIAS&nbsp;[282&nbsp;kph]</span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">129&nbsp;KIAS</span>&nbsp;<span dir="ltr">[239&nbsp;kph]</span></span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">152&nbsp;KIAS</span>&nbsp;<span dir="ltr">[282&nbsp;kph]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right"><span dir="ltr">Vne</span><br>(מהירות שאין לעבור בשום מצב – הקו האדום)</td>
-<td dir="rtl" align="right"><span dir="ltr">163&nbsp;KIAS&nbsp;[302&nbsp;kph]</span></td>
-<td dir="rtl" align="right"><span dir="ltr">219&nbsp;KIAS&nbsp;[406&nbsp;kph]</span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">163&nbsp;KIAS</span>&nbsp;<span dir="ltr">[302&nbsp;kph]</span></span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">219&nbsp;KIAS</span>&nbsp;<span dir="ltr">[406&nbsp;kph]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right">יעד בפיינל</td>
-<td dir="rtl" align="right"><span dir="ltr">60–70&nbsp;KIAS&nbsp;[111–130&nbsp;kph]</span></td>
-<td dir="rtl" align="right">מדפים מלאים: <span dir="ltr">70–75&nbsp;KIAS&nbsp;[130–139&nbsp;kph]</span><br>מדפים למעלה: <span dir="ltr">80&nbsp;KIAS&nbsp;[148&nbsp;kph]</span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">60&#8288;–&#8288;70&nbsp;KIAS</span>&nbsp;<span dir="ltr">[111&#8288;–&#8288;130&nbsp;kph]</span></span></td>
+<td dir="rtl" align="right">מדפים מלאים: <span dir="rtl"><span dir="ltr">70&#8288;–&#8288;75&nbsp;KIAS</span>&nbsp;<span dir="ltr">[130&#8288;–&#8288;139&nbsp;kph]</span></span><br>מדפים למעלה: <span dir="rtl"><span dir="ltr">80&nbsp;KIAS</span>&nbsp;<span dir="ltr">[148&nbsp;kph]</span></span></td>
 </tr>
 </tbody>
 </table>
@@ -346,8 +346,8 @@
 <tbody>
 <tr>
 <td dir="rtl" align="right" width="2500">מהירות שיוט</td>
-<td dir="rtl" align="right" width="3000">כ־<span dir="ltr">124&nbsp;KTAS&nbsp;[230&nbsp;kph]</span></td>
-<td dir="rtl" align="right" width="4500">ב־<span dir="ltr">75%</span> כוח: כ־<span dir="ltr">164–165&nbsp;KTAS&nbsp;[304–306&nbsp;kph]</span><br>ב־<span dir="ltr">65%</span> כוח: כ־<span dir="ltr">155&nbsp;KTAS&nbsp;[287&nbsp;kph]</span></td>
+<td dir="rtl" align="right" width="3000">כ־<span dir="rtl"><span dir="ltr">124&nbsp;KTAS</span>&nbsp;<span dir="ltr">[230&nbsp;kph]</span></span></td>
+<td dir="rtl" align="right" width="4500">ב־<span dir="ltr">75%</span> כוח: כ־<span dir="rtl"><span dir="ltr">164&#8288;–&#8288;165&nbsp;KTAS</span>&nbsp;<span dir="ltr">[304&#8288;–&#8288;306&nbsp;kph]</span></span><br>ב־<span dir="ltr">65%</span> כוח: כ־<span dir="rtl"><span dir="ltr">155&nbsp;KTAS</span>&nbsp;<span dir="ltr">[287&nbsp;kph]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right">שיעור טיפוס בגובה פני הים</td>
@@ -398,8 +398,8 @@
 </tr>
 <tr>
 <td dir="rtl" align="right">מהירות שיוט</td>
-<td dir="rtl" align="right"><span dir="ltr">164–165&nbsp;KTAS&nbsp;[304–306&nbsp;kph]</span></td>
-<td dir="rtl" align="right"><span dir="ltr">155&nbsp;KTAS&nbsp;[287&nbsp;kph]</span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">164&#8288;–&#8288;165&nbsp;KTAS</span>&nbsp;<span dir="ltr">[304&#8288;–&#8288;306&nbsp;kph]</span></span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">155&nbsp;KTAS</span>&nbsp;<span dir="ltr">[287&nbsp;kph]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right">זרימת דלק</td>
@@ -593,9 +593,9 @@
 <li dir="rtl">מצערת – פתח חלק לכוח מלא.</li>
 <li dir="rtl">מכשירי מנוע – בדוק סל״ד, לחץ סעפת וזרימת דלק בתחום התקין.</li>
 <li dir="rtl">ציר מסלול – שמור בהגה כיוון.</li>
-<li dir="rtl">רוטציה – <span dir="ltr">55&nbsp;KIAS&nbsp;[102&nbsp;kph]</span>. בהמראה קצרה עם <span dir="ltr">75%</span> מדפים: <span dir="ltr">50&nbsp;KIAS&nbsp;[93&nbsp;kph]</span>.</li>
+<li dir="rtl">רוטציה – <span dir="rtl"><span dir="ltr">55&nbsp;KIAS</span>&nbsp;<span dir="ltr">[102&nbsp;kph]</span></span>. בהמראה קצרה עם <span dir="ltr">75%</span> מדפים: <span dir="rtl"><span dir="ltr">50&nbsp;KIAS</span>&nbsp;<span dir="ltr">[93&nbsp;kph]</span></span>.</li>
 <li dir="rtl">בקצב טיפוס חיובי – כן נסע <span dir="ltr">UP</span>, גם בהקפה. ודא <span dir="ltr">UP</span> בשלוש החלוניות.</li>
-<li dir="rtl">טיפוס – <span dir="ltr">Vx</span> כ־<span dir="ltr">70&nbsp;KIAS&nbsp;[130&nbsp;kph]</span>, ‏<span dir="ltr">Vy 95&nbsp;KIAS&nbsp;[176&nbsp;kph]</span>, או טיפוס שיוט <span dir="ltr">100&nbsp;KIAS&nbsp;[185&nbsp;kph]</span>.</li>
+<li dir="rtl">טיפוס – <span dir="ltr">Vx</span> כ־<span dir="rtl"><span dir="ltr">70&nbsp;KIAS</span>&nbsp;<span dir="ltr">[130&nbsp;kph]</span></span>, ‏<span dir="ltr">Vy </span><span dir="rtl"><span dir="ltr">95&nbsp;KIAS</span>&nbsp;<span dir="ltr">[176&nbsp;kph]</span></span>, או טיפוס שיוט <span dir="rtl"><span dir="ltr">100&nbsp;KIAS</span>&nbsp;<span dir="ltr">[185&nbsp;kph]</span></span>.</li>
 <li dir="rtl">מדפים – אם הורדו, הרם בהדרגה לאחר התבססות בטיפוס בטוח ומעבר מכשולים.</li>
 <li dir="rtl">כוח טיפוס – בדוק לחץ סעפת וסל״ד. עקוב אחר טמפרטורות המנוע.</li>
 <li dir="rtl">ב־<span dir="ltr">1,000&nbsp;ft&nbsp;AGL&nbsp;[305&nbsp;m]</span> – משאבת עזר <span dir="ltr">OFF</span>. בדוק לחץ דלק.</li>
@@ -626,9 +626,9 @@
 <li dir="rtl">כוח – הפחת מראש כדי להאט לפני ההקפה או הגישה.</li>
 <li dir="rtl">בורר דלק – המיכל המלא יותר. משאבת עזר – <span dir="ltr">ON</span> למיכל שנבחר.</li>
 <li dir="rtl">תערובת – עשירה לפי גובה. מדחף – ידית קדימה עד הסוף.</li>
-<li dir="rtl">במהירות מתחת ל־<span dir="ltr">109&nbsp;KIAS&nbsp;[202&nbsp;kph]</span> – כן נסע <span dir="ltr">DOWN</span>.</li>
+<li dir="rtl">במהירות מתחת ל־<span dir="rtl"><span dir="ltr">109&nbsp;KIAS</span>&nbsp;<span dir="ltr">[202&nbsp;kph]</span></span> – כן נסע <span dir="ltr">DOWN</span>.</li>
 <li dir="rtl">מחוון כן נסע – שלושה סמלי גלגלים. נורת אזהרה – כבויה.</li>
-<li dir="rtl">מדפים – הורד מתחת ל־<span dir="ltr">109&nbsp;KIAS&nbsp;[202&nbsp;kph]</span> לתצורת הנחיתה.</li>
+<li dir="rtl">מדפים – הורד מתחת ל־<span dir="rtl"><span dir="ltr">109&nbsp;KIAS</span>&nbsp;<span dir="ltr">[202&nbsp;kph]</span></span> לתצורת הנחיתה.</li>
 <li dir="rtl">פנס נחיתה – <span dir="ltr">ON</span>. פנס הסעה – <span dir="ltr">OFF</span>.</li>
 <li dir="rtl">בסיס או פיינל ארוך – בדיקת <span dir="ltr">GUMPS</span>: דלק, כן נסע, תערובת, מדחף, מפסקים וחגורות.</li>
 </ol>
@@ -640,7 +640,7 @@
 <ol dir="rtl" type="1">
 <li dir="rtl">כן נסע – <span dir="ltr">DOWN</span>. ודא שלושה סמלי גלגלים.</li>
 <li dir="rtl">מדפים – <span dir="ltr">30° (100%)</span> לנחיתה רגילה. ברוח צד חזקה או במשבים שקול פחות מדפים. מצב ללא מדפים מתאים לכשל, לתרגול או לצורך תפעולי.</li>
-<li dir="rtl">מהירות פיינל במשקל מרבי – <span dir="ltr">70–75&nbsp;KIAS&nbsp;[130–139&nbsp;kph]</span> עם מדפים מלאים, או <span dir="ltr">80&nbsp;KIAS&nbsp;[148&nbsp;kph]</span> ללא מדפים.</li>
+<li dir="rtl">מהירות פיינל במשקל מרבי – <span dir="rtl"><span dir="ltr">70&#8288;–&#8288;75&nbsp;KIAS</span>&nbsp;<span dir="ltr">[130&#8288;–&#8288;139&nbsp;kph]</span></span> עם מדפים מלאים, או <span dir="rtl"><span dir="ltr">80&nbsp;KIAS</span>&nbsp;<span dir="ltr">[148&nbsp;kph]</span></span> ללא מדפים.</li>
 <li dir="rtl">נתיב גלישה – שמור גישה מיוצבת. בנתיב <span dir="ltr">3°</span>, קצב טיפוסי הוא כ־<span dir="ltr">350–400&nbsp;fpm&nbsp;[107–122&nbsp;m/min]</span>, לפי מהירות הקרקע.</li>
 <li dir="rtl">בדיקת תצורה בקול – גלגלים למטה ונעולים, מדחף קדימה, תערובת לפי גובה ומדפים במצב שנבחר.</li>
 <li dir="rtl"><strong>עם פיקוח, דווח בפיינל וחזור על הוראות הפקח. ללא פיקוח, דווח פיינל ב־</strong><span dir="ltr"><strong>UNICOM/CTAF</strong></span><strong>.</strong></li>
@@ -653,7 +653,7 @@
 
 <ol dir="rtl" type="1">
 <li dir="rtl">מצערת – מלאה.</li>
-<li dir="rtl">טיפוס – שמור כ־<span dir="ltr">70&nbsp;KIAS&nbsp;[130&nbsp;kph]</span>.</li>
+<li dir="rtl">טיפוס – שמור כ־<span dir="rtl"><span dir="ltr">70&nbsp;KIAS</span>&nbsp;<span dir="ltr">[130&nbsp;kph]</span></span>.</li>
 <li dir="rtl"><strong>דווח בקשר על הליכה סביב.</strong></li>
 <li dir="rtl">בקצב טיפוס חיובי – כן נסע <span dir="ltr">UP</span>, גם בהקפה. ודא <span dir="ltr">UP</span> בשלוש החלוניות.</li>
 <li dir="rtl">מדפים – <span dir="ltr">UP</span> בגובה <span dir="ltr">200&nbsp;ft&nbsp;AGL&nbsp;[61&nbsp;m]</span> ומעלה, במהירות טיפוס תקינה.</li>
