@@ -13,6 +13,7 @@ Simulated aircraft may differ substantially from their real-world counterparts i
 | Diamond DA42 VI Twin Star — Austro AE300 engines | Microsoft Flight Simulator 2024 · COWS DA42 VI | [Open the Hebrew guide](diamond-da42-vi/diamond-da42-vi-starter-kit.md) |
 | AeroElvira Optica OA-7 | Microsoft Flight Simulator 2024 · Got Friends / Microsoft AeroElvira Optica | [Open the Hebrew guide](aeroelvira-optica/aeroelvira-optica-starter-kit.md) |
 | Beechcraft T-34B Mentor | Microsoft Flight Simulator 2024 · Carenado T-34B Mentor | [Open the Hebrew guide](beechcraft-t34b-mentor/beechcraft-t34b-mentor-starter-kit.md) |
+| de Havilland DH.82A Tiger Moth | Microsoft Flight Simulator 2024 · Ant’s Airplanes Tiger Moth DH.82A | [Open the Hebrew guide](dh82-tiger-moth/dh82-tiger-moth-starter-kit.md) |
 
 Use the guide for the aircraft variant and simulator module identified in its title. Installed module versions and optional equipment can affect indications, procedures, and performance.
 
