@@ -51,7 +51,7 @@
 
 ### ניטור תרמי של המנוע
 
-<p dir="rtl">בנוסף ללחץ סעפת וסל״ד, עקוב אחר טמפרטורת ראשי הצילינדרים <span dir="ltr">(CHT)</span>, טמפרטורת גזי הפליטה <span dir="ltr">(EGT)</span>, טמפרטורת ולחץ השמן וזרימת הדלק. נתוני הייחוס למנוע <span dir="ltr">IO-520-BB</span> הם טמפרטורת שמן מזערית להמראה של <span dir="ltr">75 °F [24 °C]</span>, טמפרטורה מומלצת בשיוט של <span dir="ltr">170 °F [77 °C]</span> וטמפרטורה מרבית של <span dir="ltr">240 °F [116 °C]</span>. ההספק הרציף המרבי הנקוב של המנוע הוא <span dir="ltr">285</span> כ״ס ב־<span dir="ltr">2,700 RPM</span>, ללא מגבלת זמן.</p>
+<p dir="rtl">בנוסף ללחץ סעפת וסל״ד, עקוב אחר טמפרטורת ראשי הצילינדרים <span dir="ltr">(CHT)</span>, טמפרטורת גזי הפליטה <span dir="ltr">(EGT)</span>, טמפרטורת ולחץ השמן וזרימת הדלק. נתוני הייחוס למנוע <span dir="ltr">IO-520-BB</span> הם טמפרטורת שמן מזערית להמראה של <span dir="rtl"><span dir="ltr">75&nbsp;°F</span>&nbsp;<span dir="ltr">[24&nbsp;°C]</span></span>, טמפרטורה מומלצת בשיוט של <span dir="rtl"><span dir="ltr">170&nbsp;°F</span>&nbsp;<span dir="ltr">[77&nbsp;°C]</span></span> וטמפרטורה מרבית של <span dir="rtl"><span dir="ltr">240&nbsp;°F</span>&nbsp;<span dir="ltr">[116&nbsp;°C]</span></span>. ההספק הרציף המרבי הנקוב של המנוע הוא <span dir="ltr">285</span> כ״ס ב־<span dir="ltr">2,700 RPM</span>, ללא מגבלת זמן.</p>
 
 <p dir="rtl">בלוח הקדמי לחץ הסעפת וזרימת הדלק מוצגים במד משולב, עם סולם נפרד לכל נתון. מדי טמפרטורת ראשי הצילינדרים והשמן מסומנים במעלות צלזיוס.</p>
 
@@ -95,18 +95,18 @@
 <tbody>
 <tr>
 <td dir="rtl" align="right" width="2500">מוטת כנפיים</td>
-<td dir="rtl" align="right" width="3000"><span dir="ltr">36.08&nbsp;ft&nbsp;[11.00&nbsp;m]</span></td>
-<td dir="rtl" align="right" width="4500">כ־<span dir="ltr">32.83&nbsp;ft&nbsp;[10.01&nbsp;m]</span></td>
+<td dir="rtl" align="right" width="3000"><span dir="rtl"><span dir="ltr">36.08&nbsp;ft</span>&nbsp;<span dir="ltr">[11.00&nbsp;m]</span></span></td>
+<td dir="rtl" align="right" width="4500">כ־<span dir="rtl"><span dir="ltr">32.83&nbsp;ft</span>&nbsp;<span dir="ltr">[10.01&nbsp;m]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right">אורך</td>
-<td dir="rtl" align="right"><span dir="ltr">27.17&nbsp;ft&nbsp;[8.28&nbsp;m]</span></td>
-<td dir="rtl" align="right">כ־<span dir="ltr">25.98&nbsp;ft&nbsp;[7.92&nbsp;m]</span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">27.17&nbsp;ft</span>&nbsp;<span dir="ltr">[8.28&nbsp;m]</span></span></td>
+<td dir="rtl" align="right">כ־<span dir="rtl"><span dir="ltr">25.98&nbsp;ft</span>&nbsp;<span dir="ltr">[7.92&nbsp;m]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right">משקל המראה מרבי</td>
-<td dir="rtl" align="right"><span dir="ltr">2,550&nbsp;lb&nbsp;[1,157&nbsp;kg]</span></td>
-<td dir="rtl" align="right">בסימולטור: <span dir="ltr">2,900&nbsp;lb&nbsp;[1,315&nbsp;kg]</span><br>דגם <span dir="ltr">D45</span> מקורי: <span dir="ltr">2,985&nbsp;lb&nbsp;[1,354&nbsp;kg]</span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">2,550&nbsp;lb</span>&nbsp;<span dir="ltr">[1,157&nbsp;kg]</span></span></td>
+<td dir="rtl" align="right">בסימולטור: <span dir="rtl"><span dir="ltr">2,900&nbsp;lb</span>&nbsp;<span dir="ltr">[1,315&nbsp;kg]</span></span><br>דגם <span dir="ltr">D45</span> מקורי: <span dir="rtl"><span dir="ltr">2,985&nbsp;lb</span>&nbsp;<span dir="ltr">[1,354&nbsp;kg]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right">השפעה בטיסה</td>
@@ -154,8 +154,8 @@
 <tbody>
 <tr>
 <td dir="rtl" align="right" width="2500">מנוע</td>
-<td dir="rtl" align="right" width="3000"><span dir="ltr">Lycoming</span><br><span dir="ltr">IO-360-L2A</span><br><span dir="ltr">180</span> כוח סוס<br>מוזרק דלק, <span dir="ltr">4</span> צילינדרים<br>נפח <span dir="ltr">360&nbsp;in³&nbsp;[5.9&nbsp;L]</span></td>
-<td dir="rtl" align="right" width="4500"><span dir="ltr">Continental</span><br><span dir="ltr">IO-520-BB</span><br><span dir="ltr">285</span> כוח סוס ב־<span dir="ltr">2,700 RPM</span><br>הספק המראה והספק רציף מרבי<br>מוזרק דלק, <span dir="ltr">6</span> צילינדרים<br>נפח <span dir="ltr">520&nbsp;in³&nbsp;[8.5&nbsp;L]</span></td>
+<td dir="rtl" align="right" width="3000"><span dir="ltr">Lycoming</span><br><span dir="ltr">IO-360-L2A</span><br><span dir="ltr">180</span> כוח סוס<br>מוזרק דלק, <span dir="ltr">4</span> צילינדרים<br>נפח <span dir="rtl"><span dir="ltr">360&nbsp;in³</span>&nbsp;<span dir="ltr">[5.9&nbsp;L]</span></span></td>
+<td dir="rtl" align="right" width="4500"><span dir="ltr">Continental</span><br><span dir="ltr">IO-520-BB</span><br><span dir="ltr">285</span> כוח סוס ב־<span dir="ltr">2,700 RPM</span><br>הספק המראה והספק רציף מרבי<br>מוזרק דלק, <span dir="ltr">6</span> צילינדרים<br>נפח <span dir="rtl"><span dir="ltr">520&nbsp;in³</span>&nbsp;<span dir="ltr">[8.5&nbsp;L]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right">מדחף</td>
@@ -186,13 +186,13 @@
 </tr>
 <tr>
 <td dir="rtl" align="right">קיבולת כוללת</td>
-<td dir="rtl" align="right"><span dir="ltr">56&nbsp;US&nbsp;gal&nbsp;[212.0&nbsp;L]</span></td>
-<td dir="rtl" align="right"><span dir="ltr">80&nbsp;US&nbsp;gal&nbsp;[302.8&nbsp;L]</span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">56&nbsp;US&nbsp;gal</span>&nbsp;<span dir="ltr">[212.0&nbsp;L]</span></span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">80&nbsp;US&nbsp;gal</span>&nbsp;<span dir="ltr">[302.8&nbsp;L]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right">קיבולת שמישה</td>
-<td dir="rtl" align="right"><span dir="ltr">53&nbsp;US&nbsp;gal&nbsp;[200.6&nbsp;L]</span></td>
-<td dir="rtl" align="right">כ־<span dir="ltr">74&nbsp;US&nbsp;gal&nbsp;[280.1&nbsp;L]</span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">53&nbsp;US&nbsp;gal</span>&nbsp;<span dir="ltr">[200.6&nbsp;L]</span></span></td>
+<td dir="rtl" align="right">כ־<span dir="rtl"><span dir="ltr">74&nbsp;US&nbsp;gal</span>&nbsp;<span dir="ltr">[280.1&nbsp;L]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right">בורר</td>
@@ -202,7 +202,7 @@
 <tr>
 <td dir="rtl" align="right">משאבה</td>
 <td dir="rtl" align="right">משאבת עזר חשמלית לתיחול ולהתנעה, ולשימושים המוגדרים בנוהלי ספר המטוס</td>
-<td dir="rtl" align="right">משאבת עזר חשמלית עם בחירת מיכל. משמשת להתנעה, להמראה ולנחיתה ובכשל משאבת הדלק של המנוע.<br>בטיפוס לאחר ההמראה, כבה בגובה <span dir="ltr">1,000&nbsp;ft&nbsp;AGL&nbsp;[305&nbsp;m]</span>.</td>
+<td dir="rtl" align="right">משאבת עזר חשמלית עם בחירת מיכל. משמשת להתנעה, להמראה ולנחיתה ובכשל משאבת הדלק של המנוע.<br>בטיפוס לאחר ההמראה, כבה בגובה <span dir="rtl"><span dir="ltr">1,000&nbsp;ft&nbsp;AGL</span>&nbsp;<span dir="ltr">[305&nbsp;m]</span></span>.</td>
 </tr>
 </tbody>
 </table>
@@ -281,12 +281,12 @@
 <tr>
 <td dir="rtl" align="right"><span dir="ltr">Vglide</span><br>(גלישה מיטבית לאחר אובדן כוח)</td>
 <td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">68&nbsp;KIAS</span>&nbsp;<span dir="ltr">[126&nbsp;kph]</span></span></td>
-<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">90&nbsp;KIAS</span>&nbsp;<span dir="ltr">[167&nbsp;kph]</span></span> בתצורה נקייה עם חופה סגורה ומדחף ב־<span dir="ltr">DECREASE</span> מלא.<br>בגובה עד <span dir="ltr">1,000&nbsp;ft&nbsp;[305&nbsp;m]</span>:<br>ללא מדפים: <span dir="rtl"><span dir="ltr">80&nbsp;KIAS</span>&nbsp;<span dir="ltr">[148&nbsp;kph]</span></span><br>עם מדפים: <span dir="rtl"><span dir="ltr">75&nbsp;KIAS</span>&nbsp;<span dir="ltr">[139&nbsp;kph]</span></span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">90&nbsp;KIAS</span>&nbsp;<span dir="ltr">[167&nbsp;kph]</span></span> בתצורה נקייה עם חופה סגורה ומדחף ב־<span dir="ltr">DECREASE</span> מלא.<br>בגובה עד <span dir="rtl"><span dir="ltr">1,000&nbsp;ft</span>&nbsp;<span dir="ltr">[305&nbsp;m]</span></span>:<br>ללא מדפים: <span dir="rtl"><span dir="ltr">80&nbsp;KIAS</span>&nbsp;<span dir="ltr">[148&nbsp;kph]</span></span><br>עם מדפים: <span dir="rtl"><span dir="ltr">75&nbsp;KIAS</span>&nbsp;<span dir="ltr">[139&nbsp;kph]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right">יחס גלישה<br>(מרחק אופקי לעומת איבוד גובה)</td>
 <td dir="rtl" align="right"><span dir="ltr">9:1</span></td>
-<td dir="rtl" align="right">מדחף ב־<span dir="ltr">DECREASE</span> מלא: כ־<span dir="ltr">13:1</span> (כ־<span dir="ltr">2.1 NM [3.9 km]</span> לכל <span dir="ltr">1,000&nbsp;ft&nbsp;[305&nbsp;m]</span>). פסיעה גסה מקטינה גרר.<br>מדחף ב־<span dir="ltr">INCREASE</span> מלא: כ־<span dir="ltr">10:1</span> (כ־<span dir="ltr">1.6 NM [3.0 km]</span> לכל <span dir="ltr">1,000&nbsp;ft&nbsp;[305&nbsp;m]</span>), מתאים לקיצור של הגלישה לאחר שהנחיתה מובטחת.<br>פתיחת החופה מקטינה מעט את היחס.</td>
+<td dir="rtl" align="right">מדחף ב־<span dir="ltr">DECREASE</span> מלא: כ־<span dir="ltr">13:1</span> (כ־<span dir="rtl"><span dir="ltr">2.1&nbsp;NM</span>&nbsp;<span dir="ltr">[3.9&nbsp;km]</span></span> לכל <span dir="rtl"><span dir="ltr">1,000&nbsp;ft</span>&nbsp;<span dir="ltr">[305&nbsp;m]</span></span>). פסיעה גסה מקטינה גרר.<br>מדחף ב־<span dir="ltr">INCREASE</span> מלא: כ־<span dir="ltr">10:1</span> (כ־<span dir="rtl"><span dir="ltr">1.6&nbsp;NM</span>&nbsp;<span dir="ltr">[3.0&nbsp;km]</span></span> לכל <span dir="rtl"><span dir="ltr">1,000&nbsp;ft</span>&nbsp;<span dir="ltr">[305&nbsp;m]</span></span>), מתאים לקיצור של הגלישה לאחר שהנחיתה מובטחת.<br>פתיחת החופה מקטינה מעט את היחס.</td>
 </tr>
 </tbody>
 </table>
@@ -351,13 +351,13 @@
 </tr>
 <tr>
 <td dir="rtl" align="right">שיעור טיפוס בגובה פני הים</td>
-<td dir="rtl" align="right">כ־<span dir="ltr">730&nbsp;fpm&nbsp;[223&nbsp;m/min]</span></td>
-<td dir="rtl" align="right">כ־<span dir="ltr">1,500&nbsp;fpm&nbsp;[457&nbsp;m/min]</span></td>
+<td dir="rtl" align="right">כ־<span dir="rtl"><span dir="ltr">730&nbsp;fpm</span>&nbsp;<span dir="ltr">[223&nbsp;m/min]</span></span></td>
+<td dir="rtl" align="right">כ־<span dir="rtl"><span dir="ltr">1,500&nbsp;fpm</span>&nbsp;<span dir="ltr">[457&nbsp;m/min]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right">צריכת דלק טיפוסית</td>
-<td dir="rtl" align="right"><span dir="ltr">8.5–10&nbsp;US&nbsp;gal/h&nbsp;[32.2–37.9&nbsp;L/h]</span></td>
-<td dir="rtl" align="right">ב־<span dir="ltr">75%</span> כוח: כ־<span dir="ltr">15.2–15.5&nbsp;US&nbsp;gal/h&nbsp;[57.5–58.7&nbsp;L/h]</span><br>ב־<span dir="ltr">65%</span> כוח: כ־<span dir="ltr">12.5&nbsp;US&nbsp;gal/h&nbsp;[47.3&nbsp;L/h]</span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">8.5&#8288;–&#8288;10&nbsp;US&nbsp;gal/h</span>&nbsp;<span dir="ltr">[32.2&#8288;–&#8288;37.9&nbsp;L/h]</span></span></td>
+<td dir="rtl" align="right">ב־<span dir="ltr">75%</span> כוח: כ־<span dir="rtl"><span dir="ltr">15.2&#8288;–&#8288;15.5&nbsp;US&nbsp;gal/h</span>&nbsp;<span dir="ltr">[57.5&#8288;–&#8288;58.7&nbsp;L/h]</span></span><br>ב־<span dir="ltr">65%</span> כוח: כ־<span dir="rtl"><span dir="ltr">12.5&nbsp;US&nbsp;gal/h</span>&nbsp;<span dir="ltr">[47.3&nbsp;L/h]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right">משמעות תפעולית</td>
@@ -378,8 +378,8 @@
 <tbody>
 <tr>
 <td dir="rtl" align="right" width="2500">גובה</td>
-<td dir="rtl" align="right" width="3000"><span dir="ltr">6,000–6,500&nbsp;ft&nbsp;[1,829–1,981&nbsp;m]</span></td>
-<td dir="rtl" align="right" width="4500"><span dir="ltr">6,000–8,000&nbsp;ft&nbsp;[1,829–2,438&nbsp;m]</span></td>
+<td dir="rtl" align="right" width="3000"><span dir="rtl"><span dir="ltr">6,000&#8288;–&#8288;6,500&nbsp;ft</span>&nbsp;<span dir="ltr">[1,829&#8288;–&#8288;1,981&nbsp;m]</span></span></td>
+<td dir="rtl" align="right" width="4500"><span dir="rtl"><span dir="ltr">6,000&#8288;–&#8288;8,000&nbsp;ft</span>&nbsp;<span dir="ltr">[1,829&#8288;–&#8288;2,438&nbsp;m]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right">לחץ סעפת</td>
@@ -393,8 +393,8 @@
 </tr>
 <tr>
 <td dir="rtl" align="right">הפרש משיא <span dir="ltr">EGT</span></td>
-<td dir="rtl" align="right">בצד העשיר: <span dir="ltr">50 °F [28 °C]</span></td>
-<td dir="rtl" align="right">בצד הדל: <span dir="ltr">25 °F [14 °C]</span></td>
+<td dir="rtl" align="right">בצד העשיר: <span dir="rtl"><span dir="ltr">50&nbsp;°F</span>&nbsp;<span dir="ltr">[28&nbsp;°C]</span></span></td>
+<td dir="rtl" align="right">בצד הדל: <span dir="rtl"><span dir="ltr">25&nbsp;°F</span>&nbsp;<span dir="ltr">[14&nbsp;°C]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right">מהירות שיוט</td>
@@ -403,13 +403,13 @@
 </tr>
 <tr>
 <td dir="rtl" align="right">זרימת דלק</td>
-<td dir="rtl" align="right"><span dir="ltr">15.2–15.5&nbsp;US&nbsp;gal/h&nbsp;[57.5–58.7&nbsp;L/h]</span></td>
-<td dir="rtl" align="right"><span dir="ltr">12.5&nbsp;US&nbsp;gal/h&nbsp;[47.3&nbsp;L/h]</span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">15.2&#8288;–&#8288;15.5&nbsp;US&nbsp;gal/h</span>&nbsp;<span dir="ltr">[57.5&#8288;–&#8288;58.7&nbsp;L/h]</span></span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">12.5&nbsp;US&nbsp;gal/h</span>&nbsp;<span dir="ltr">[47.3&nbsp;L/h]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right">טווח סגולי</td>
-<td dir="rtl" align="right"><span dir="ltr">10.4–10.8 NM/US gal [5.09–5.28 km/L]</span></td>
-<td dir="rtl" align="right"><span dir="ltr">12.4 NM/US gal [6.07 km/L]</span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">10.4&#8288;–&#8288;10.8&nbsp;NM/US&nbsp;gal</span>&nbsp;<span dir="ltr">[5.09&#8288;–&#8288;5.28&nbsp;km/L]</span></span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">12.4&nbsp;NM/US&nbsp;gal</span>&nbsp;<span dir="ltr">[6.07&nbsp;km/L]</span></span></td>
 </tr>
 <tr>
 <td dir="rtl" align="right">סבולת שיוט משוערת</td>
@@ -418,13 +418,13 @@
 </tr>
 <tr>
 <td dir="rtl" align="right">טווח שיוט משוער</td>
-<td dir="rtl" align="right"><span dir="ltr">660 NM [1,222 km]</span></td>
-<td dir="rtl" align="right"><span dir="ltr">800 NM [1,482 km]</span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">660&nbsp;NM</span>&nbsp;<span dir="ltr">[1,222&nbsp;km]</span></span></td>
+<td dir="rtl" align="right"><span dir="rtl"><span dir="ltr">800&nbsp;NM</span>&nbsp;<span dir="ltr">[1,482&nbsp;km]</span></span></td>
 </tr>
 </tbody>
 </table>
 
-<p dir="rtl"><strong>לטווח הגדול ביותר מבין האפשרויות בטבלה:</strong> ב־<span dir="ltr">65%</span> כוח. לפי כ־<span dir="ltr">74&nbsp;US&nbsp;gal&nbsp;[280.1&nbsp;L]</span> שמישים ורזרבה של <span dir="ltr">45</span> דקות. החישוב מניח אוויר שקט וטיסה בכוח השיוט ואינו מנכה בנפרד דלק להסעה ולטיפוס.</p>
+<p dir="rtl"><strong>לטווח הגדול ביותר מבין האפשרויות בטבלה:</strong> ב־<span dir="ltr">65%</span> כוח. לפי כ־<span dir="rtl"><span dir="ltr">74&nbsp;US&nbsp;gal</span>&nbsp;<span dir="ltr">[280.1&nbsp;L]</span></span> שמישים ורזרבה של <span dir="ltr">45</span> דקות. החישוב מניח אוויר שקט וטיסה בכוח השיוט ואינו מנכה בנפרד דלק להסעה ולטיפוס.</p>
 
 <table dir="rtl" width="100%">
 <thead>
@@ -500,7 +500,7 @@
 <li dir="rtl">בורר משאבת עזר – התאם למיכל שנבחר.</li>
 <li dir="rtl">תערובת – <span dir="ltr">IDLE CUT-OFF</span>.</li>
 <li dir="rtl">מדחף – ידית קדימה עד הסוף.</li>
-<li dir="rtl">מצערת – פתוחה כ־<span dir="ltr">0.25 in [6.35 mm]</span>.</li>
+<li dir="rtl">מצערת – פתוחה כ־<span dir="rtl"><span dir="ltr">0.25&nbsp;in</span>&nbsp;<span dir="ltr">[6.35&nbsp;mm]</span></span>.</li>
 <li dir="rtl">מקזזי גובה, כיוון ומאזנות – ניטרלי <span dir="ltr">(0°)</span>.</li>
 <li dir="rtl">גנרטור – <span dir="ltr">ON</span>. מצבר, ממיר, תאורה, רדיו וחימום פיטו – <span dir="ltr">OFF</span>.</li>
 <li dir="rtl">מפסקי זרם – <span dir="ltr">IN</span>.</li>
@@ -530,7 +530,7 @@
 <li dir="rtl">לחץ שמן – ודא עלייה תוך <span dir="ltr">10</span> שניות ולפחות <span dir="ltr">30 psi</span> תוך <span dir="ltr">30</span> שניות. כבה מנוע אם אין לחץ כנדרש.</li>
 <li dir="rtl">משאבת עזר – <span dir="ltr">OFF</span>. נורת גנרטור – כבויה ב־<span dir="ltr">900 RPM</span> ומעלה.</li>
 <li dir="rtl">חימום – <span dir="ltr">1,200–1,600 RPM</span> בסל״ד הנמוך ביותר שבו המנוע פועל חלק, עד עליית טמפרטורת השמן או התייצבות הלחץ.</li>
-<li dir="rtl">טמפרטורת שמן מתחת ל־<span dir="ltr">75 °F [24 °C]</span> – הגבל ל־<span dir="ltr">1,600 RPM</span>.</li>
+<li dir="rtl">טמפרטורת שמן מתחת ל־<span dir="rtl"><span dir="ltr">75&nbsp;°F</span>&nbsp;<span dir="ltr">[24&nbsp;°C]</span></span> – הגבל ל־<span dir="ltr">1,600 RPM</span>.</li>
 <li dir="rtl">מתג רדיו – <span dir="ltr">ON</span>. אמת תוכנית טיסה ותדרים.</li>
 <li dir="rtl">מד גובה – כייל ל־<span dir="ltr">QNH</span>.</li>
 </ol>
@@ -598,7 +598,7 @@
 <li dir="rtl">טיפוס – <span dir="ltr">Vx</span> כ־<span dir="rtl"><span dir="ltr">70&nbsp;KIAS</span>&nbsp;<span dir="ltr">[130&nbsp;kph]</span></span>, ‏<span dir="ltr">Vy </span><span dir="rtl"><span dir="ltr">95&nbsp;KIAS</span>&nbsp;<span dir="ltr">[176&nbsp;kph]</span></span>, או טיפוס שיוט <span dir="rtl"><span dir="ltr">100&nbsp;KIAS</span>&nbsp;<span dir="ltr">[185&nbsp;kph]</span></span>.</li>
 <li dir="rtl">מדפים – אם הורדו, הרם בהדרגה לאחר התבססות בטיפוס בטוח ומעבר מכשולים.</li>
 <li dir="rtl">כוח טיפוס – בדוק לחץ סעפת וסל״ד. עקוב אחר טמפרטורות המנוע.</li>
-<li dir="rtl">ב־<span dir="ltr">1,000&nbsp;ft&nbsp;AGL&nbsp;[305&nbsp;m]</span> – משאבת עזר <span dir="ltr">OFF</span>. בדוק לחץ דלק.</li>
+<li dir="rtl">ב־<span dir="rtl"><span dir="ltr">1,000&nbsp;ft&nbsp;AGL</span>&nbsp;<span dir="ltr">[305&nbsp;m]</span></span> – משאבת עזר <span dir="ltr">OFF</span>. בדוק לחץ דלק.</li>
 <li dir="rtl">קזז לטיפוס.</li>
 </ol>
 
@@ -641,7 +641,7 @@
 <li dir="rtl">כן נסע – <span dir="ltr">DOWN</span>. ודא שלושה סמלי גלגלים.</li>
 <li dir="rtl">מדפים – <span dir="ltr">30° (100%)</span> לנחיתה רגילה. ברוח צד חזקה או במשבים שקול פחות מדפים. מצב ללא מדפים מתאים לכשל, לתרגול או לצורך תפעולי.</li>
 <li dir="rtl">מהירות פיינל במשקל מרבי – <span dir="rtl"><span dir="ltr">70&#8288;–&#8288;75&nbsp;KIAS</span>&nbsp;<span dir="ltr">[130&#8288;–&#8288;139&nbsp;kph]</span></span> עם מדפים מלאים, או <span dir="rtl"><span dir="ltr">80&nbsp;KIAS</span>&nbsp;<span dir="ltr">[148&nbsp;kph]</span></span> ללא מדפים.</li>
-<li dir="rtl">נתיב גלישה – שמור גישה מיוצבת. בנתיב <span dir="ltr">3°</span>, קצב טיפוסי הוא כ־<span dir="ltr">350–400&nbsp;fpm&nbsp;[107–122&nbsp;m/min]</span>, לפי מהירות הקרקע.</li>
+<li dir="rtl">נתיב גלישה – שמור גישה מיוצבת. בנתיב <span dir="ltr">3°</span>, קצב טיפוסי הוא כ־<span dir="rtl"><span dir="ltr">350&#8288;–&#8288;400&nbsp;fpm</span>&nbsp;<span dir="ltr">[107&#8288;–&#8288;122&nbsp;m/min]</span></span>, לפי מהירות הקרקע.</li>
 <li dir="rtl">בדיקת תצורה בקול – גלגלים למטה ונעולים, מדחף קדימה, תערובת לפי גובה ומדפים במצב שנבחר.</li>
 <li dir="rtl"><strong>עם פיקוח, דווח בפיינל וחזור על הוראות הפקח. ללא פיקוח, דווח פיינל ב־</strong><span dir="ltr"><strong>UNICOM/CTAF</strong></span><strong>.</strong></li>
 <li dir="rtl">אם הגישה מהירה, גבוהה או בלתי מיוצבת – עבור להליכה סביב.</li>
@@ -656,7 +656,7 @@
 <li dir="rtl">טיפוס – שמור כ־<span dir="rtl"><span dir="ltr">70&nbsp;KIAS</span>&nbsp;<span dir="ltr">[130&nbsp;kph]</span></span>.</li>
 <li dir="rtl"><strong>דווח בקשר על הליכה סביב.</strong></li>
 <li dir="rtl">בקצב טיפוס חיובי – כן נסע <span dir="ltr">UP</span>, גם בהקפה. ודא <span dir="ltr">UP</span> בשלוש החלוניות.</li>
-<li dir="rtl">מדפים – <span dir="ltr">UP</span> בגובה <span dir="ltr">200&nbsp;ft&nbsp;AGL&nbsp;[61&nbsp;m]</span> ומעלה, במהירות טיפוס תקינה.</li>
+<li dir="rtl">מדפים – <span dir="ltr">UP</span> בגובה <span dir="rtl"><span dir="ltr">200&nbsp;ft&nbsp;AGL</span>&nbsp;<span dir="ltr">[61&nbsp;m]</span></span> ומעלה, במהירות טיפוס תקינה.</li>
 </ol>
 
 ## בד"ח אחרי נחיתה – פינוי מסלול
