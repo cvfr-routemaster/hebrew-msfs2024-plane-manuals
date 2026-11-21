@@ -99,7 +99,7 @@ Corrections and improvements are welcome through issues and pull requests. Inclu
 
 הטקסט המקורי של המאגר, לרבות קובץ זה והמדריכים, מופץ ברישיון **קריאייטיב קומונס ייחוס–שימוש לא מסחרי–שיתוף זהה <span dir="ltr">4.0</span> בין־לאומי** (<span dir="ltr">CC BY-NC-SA 4.0</span>). ניתן לשתף ולעבד את הטקסט לשימוש לא מסחרי, תוך מתן קרדיט, ציון השינויים והפצת העיבודים באותו רישיון. התנאים המלאים, ייחוס המחבר ופרטי הקשר מופיעים בקובץ [LICENSE](LICENSE).
 
-**צילומי המסך מהסימולטור אינם כלולים ברישיון קריאייטיב קומונס.** הצילומים נעשו ב־<span dir="ltr">Microsoft Flight Simulator 2024</span>. הזכויות בסימולטור, במטוסים, בתרחישים, בסכמות הצביעה ובשאר התכנים של צדדים שלישיים נשארות בידי בעליהן. הכללת הצילומים כאן אינה מקנה זכויות שימוש נוספות. השימוש כפוף לתנאים של מיקרוסופט ושל מפתחי התוספים.
+צילומי המסך מהסימולטור מובאים לצורכי לימוד והמחשה ללא מטרה מסחרית. **צילומי המסך מהסימולטור אינם כלולים ברישיון קריאייטיב קומונס.** הצילומים נעשו ב־<span dir="ltr">Microsoft Flight Simulator 2024</span>. הזכויות בסימולטור, במטוסים, בתרחישים, בסכמות הצביעה ובשאר התכנים של צדדים שלישיים נשארות בידי בעליהן. הכללת הצילומים כאן אינה מקנה זכויות שימוש נוספות. השימוש כפוף לתנאים של מיקרוסופט ושל מפתחי התוספים.
 
 הפרויקט נוצר לפי [כללי השימוש של מיקרוסופט בתוכני משחקים](https://www.xbox.com/en-US/developers/rules), תוך שימוש בתכנים מתוך <span dir="ltr">Microsoft Flight Simulator 2024</span>. זהו פרויקט קהילתי עצמאי, ללא שיוך או חסות של מיקרוסופט, יצרני המטוסים או מפתחי התוספים. הודעת הזכויות באנגלית מופיעה להלן.
 
@@ -111,7 +111,7 @@ Original Markdown text, including this README and the starter-kit guides, is lic
 
 Author attribution and contact details are provided in [LICENSE](LICENSE).
 
-**Simulator screenshots are excluded from the Creative Commons license.** They were captured in Microsoft Flight Simulator 2024. Rights in the underlying simulator, aircraft, scenery, liveries, and other third-party content remain with their respective owners. Inclusion here does not grant additional rights to reuse those assets. Applicable Microsoft and add-on developer terms govern their use.
+Simulator screenshots are included for noncommercial educational and illustrative purposes. **Simulator screenshots are excluded from the Creative Commons license.** They were captured in Microsoft Flight Simulator 2024. Rights in the underlying simulator, aircraft, scenery, liveries, and other third-party content remain with their respective owners. Inclusion here does not grant additional rights to reuse those assets. Applicable Microsoft and add-on developer terms govern their use.
 
 For Microsoft-owned game content, the following notice applies.
 
