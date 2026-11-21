@@ -11,6 +11,7 @@ Simulated aircraft may differ substantially from their real-world counterparts i
 | Aircraft | Simulator and aircraft module | Starter kit |
 | --- | --- | --- |
 | AeroElvira Optica OA-7 | Microsoft Flight Simulator 2024 · Got Friends / Microsoft AeroElvira Optica | [Open the Hebrew guide](aeroelvira-optica/aeroelvira-optica-starter-kit.md) |
+| Aeroprakt A-32 Vixxen Explorer | Microsoft Flight Simulator 2024 · Got Friends Aeroprakt A-32 Vixxen | [Open the Hebrew guide](aeroprakt-a32/aeroprakt-a32-starter-kit.md) |
 | Beechcraft T-34B Mentor | Microsoft Flight Simulator 2024 · Carenado T-34B Mentor | [Open the Hebrew guide](beechcraft-t34b-mentor/beechcraft-t34b-mentor-starter-kit.md) |
 | de Havilland DH.82A Tiger Moth | Microsoft Flight Simulator 2024 · Ant’s Airplanes Tiger Moth DH.82A | [Open the Hebrew guide](dh82-tiger-moth/dh82-tiger-moth-starter-kit.md) |
 | Diamond DA42 VI Twin Star — Austro AE300 engines | Microsoft Flight Simulator 2024 · COWS DA42 VI | [Open the Hebrew guide](diamond-da42-vi/diamond-da42-vi-starter-kit.md) |
