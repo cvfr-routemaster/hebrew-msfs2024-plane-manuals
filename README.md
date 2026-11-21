@@ -1,5 +1,13 @@
 # Hebrew Aircraft Starter Kits for Simulated Flight
 
+<div dir="rtl" lang="he">
+
+**ערכות מעבר למטוסים לטייסי סימולטור:** מדריכי מעבר ובד״ח (צ׳קליסטים) בעברית למטוסים ב-<span dir="ltr">Microsoft Flight Simulator 2024</span>, בהשוואה לססנה <span dir="ltr">172</span>.
+
+</div>
+
+**[Project website · אתר הפרויקט](https://cvfr-routemaster.github.io/hebrew-msfs2024-plane-manuals/)**
+
 Hebrew aircraft transition guides and practical checklists for simulated flight, intended for pilots moving beyond the Cessna 172. Each kit explains the aircraft's systems and handling differences, provides comparison and performance references, and covers normal flight phases and selected emergency procedures.
 
 **Intended for use in simulated flight only.** These guides make no claim or representation that they are suitable for use in real-life airplanes, real-world flight planning, or real-world flight instruction. Do not rely on them for those purposes.
@@ -33,6 +41,8 @@ diamond-da42-vi/
 
 Open a guide directly on GitHub to read it with its images. Add newly published aircraft to the table in alphabetical order by aircraft name.
 
+The `docs/` folder holds the project website (GitHub Pages). Each newly published aircraft also needs a card there, in the same order as the table.
+
 ## Corrections and contributions
 
 Corrections and improvements are welcome through issues and pull requests. Include the aircraft, simulator module/version, and affected section; provide a supporting reference when suggesting a technical change. Contributions to guide text are submitted under the same CC BY-NC-SA 4.0 license.
@@ -52,4 +62,8 @@ For Microsoft-owned game content, the following notice applies:
 [Microsoft Game Content Usage Rules](https://www.xbox.com/en-US/developers/rules)
 
 This is an independent community project and is not endorsed by or affiliated with aircraft manufacturers or simulator add-on developers.
+
+---
+
+<sub>Keywords: MSFS 2024 checklist, Hebrew flight simulator guide, Cessna 172 transition, DA42 checklist, Tiger Moth checklist, T-34 Mentor, Aeroprakt A-32 Vixxen, AeroElvira Optica, VATSIM, VATIL · צ׳קליסט, בד״ח, סימולטור טיסה, מדריך מטוס בעברית, ססנה 172</sub>
 

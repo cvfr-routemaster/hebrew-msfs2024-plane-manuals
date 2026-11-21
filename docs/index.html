@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ערכות מעבר למטוסים ב-MSFS 2024 בעברית — בד״ח והשוואה לססנה 172 | Hebrew Aircraft Starter Kits</title>
+  <meta name="description" content="מדריכי מעבר ובד&quot;ח (צ'קליסטים) בעברית למטוסים ב-Microsoft Flight Simulator 2024, בהשוואה לססנה 172: DA42, טייגר מות', T-34B מנטור, A-32 ויקסן, אופטיקה. Hebrew aircraft starter kits and checklists for MSFS 2024 pilots moving beyond the Cessna 172.">
+  <meta name="keywords" content="MSFS 2024, צ'קליסט, בד&quot;ח, סימולטור טיסה, ססנה 172, VATSIM, VATIL, DA42 checklist, Tiger Moth checklist, T-34 Mentor, Aeroprakt A-32, AeroElvira Optica, Hebrew, flight simulator">
+  <link rel="canonical" href="https://cvfr-routemaster.github.io/hebrew-msfs2024-plane-manuals/">
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="ערכות מעבר למטוסים לטייסי סימולטור | Hebrew Aircraft Starter Kits">
+  <meta property="og:description" content="מדריכי מעבר ובד&quot;ח בעברית למטוסים ב-MSFS 2024, בהשוואה לססנה 172. Hebrew transition guides and checklists for MSFS 2024.">
+  <meta property="og:url" content="https://cvfr-routemaster.github.io/hebrew-msfs2024-plane-manuals/">
+  <meta property="og:image" content="https://cvfr-routemaster.github.io/hebrew-msfs2024-plane-manuals/social-preview.jpg">
+  <meta property="og:image:width" content="1280">
+  <meta property="og:image:height" content="640">
+  <meta property="og:locale" content="he_IL">
+  <meta property="og:locale:alternate" content="en_US">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Hebrew Aircraft Starter Kits for Simulated Flight",
+    "alternateName": "ערכות מעבר למטוסים לטייסי סימולטור",
+    "description": "Hebrew aircraft transition guides and checklists for Microsoft Flight Simulator 2024, compared with the Cessna 172.",
+    "inLanguage": ["he", "en"],
+    "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "url": "https://cvfr-routemaster.github.io/hebrew-msfs2024-plane-manuals/",
+    "isBasedOn": "https://github.com/cvfr-routemaster/hebrew-msfs2024-plane-manuals"
+  }
+  </script>
+
+  <style>
+    * { box-sizing: border-box; }
+    :root {
+      --bg: #0f1419; --panel: #172029; --text: #e6edf3; --muted: #9aa7b4;
+      --accent: #2ea043; --accent-hover: #3fb950; --link: #58a6ff; --border: #2a3644;
+    }
+    body {
+      margin: 0; background: var(--bg); color: var(--text);
+      font-family: system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+      line-height: 1.6;
+    }
+    a { color: var(--link); }
+    header {
+      text-align: center; padding: 56px 20px 40px;
+      background: linear-gradient(180deg, #1b2733 0%, var(--bg) 100%);
+      border-bottom: 1px solid var(--border);
+    }
+    h1 { margin: 0 0 6px; font-size: 2.3rem; }
+    .tagline { margin: 0 auto; max-width: 760px; font-size: 1.15rem; color: var(--muted); }
+    .buttons { margin-top: 26px; display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+    .btn {
+      display: inline-block; padding: 12px 22px; border-radius: 6px;
+      font-weight: 600; text-decoration: none; border: 1px solid var(--border);
+      color: var(--text); background: var(--panel);
+    }
+    .btn.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+    .btn.primary:hover { background: var(--accent-hover); }
+    .btn:hover { border-color: var(--muted); }
+    main { max-width: 1100px; margin: 0 auto; padding: 36px 20px; }
+    h2 { font-size: 1.45rem; margin: 8px 0 18px; }
+    .aircraft {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px;
+      margin-bottom: 40px;
+    }
+    .card {
+      display: flex; flex-direction: column; background: var(--panel);
+      border: 1px solid var(--border); border-radius: 10px; overflow: hidden;
+      text-decoration: none; color: var(--text);
+    }
+    .card:hover { border-color: var(--muted); }
+    .card img { width: 100%; aspect-ratio: 2 / 1; object-fit: cover; display: block; }
+    .card .body { padding: 14px 18px 18px; }
+    .card h3 { margin: 0; font-size: 1.15rem; }
+    .card .en { margin: 2px 0 6px; color: var(--muted); font-size: 0.95rem; }
+    .card .module { margin: 0; font-size: 0.9rem; color: var(--muted); }
+    .about { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+    .about section {
+      background: var(--panel); border: 1px solid var(--border);
+      border-radius: 10px; padding: 6px 24px 16px;
+    }
+    .about h2 { font-size: 1.25rem; margin-top: 14px; }
+    .warning {
+      text-align: center; padding: 14px; margin-top: 28px;
+      border: 1px solid #9e6a03; background: #2b2111; border-radius: 10px;
+    }
+    footer {
+      text-align: center; color: var(--muted); font-size: 0.85rem;
+      padding: 20px 20px 40px; border-top: 1px solid var(--border);
+      max-width: 1100px; margin: 0 auto;
+    }
+    @media (max-width: 800px) { .about { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>ערכות מעבר למטוסים לטייסי סימולטור</h1>
+    <p class="tagline">מדריכי מעבר ובד״ח (צ׳קליסטים) בעברית למטוסים ב-<span dir="ltr">Microsoft Flight Simulator 2024</span>, בהשוואה לססנה <span dir="ltr">172</span> שרובנו מתחילים איתה.</p>
+    <p class="tagline" dir="ltr" lang="en">Hebrew Aircraft Starter Kits — transition guides and checklists for MSFS 2024 pilots moving beyond the Cessna 172.</p>
+    <div class="buttons">
+      <a class="btn primary" href="#aircraft">למדריכים · Guides</a>
+      <a class="btn" href="https://github.com/cvfr-routemaster/hebrew-msfs2024-plane-manuals">GitHub</a>
+    </div>
+  </header>
+
+  <main>
+    <h2 id="aircraft">המטוסים · <span dir="ltr" lang="en">Aircraft</span></h2>
+    <!-- Keep the cards in the same alphabetical order as the README aircraft table. -->
+    <div class="aircraft">
+      <a class="card" href="https://github.com/cvfr-routemaster/hebrew-msfs2024-plane-manuals/blob/main/aeroelvira-optica/aeroelvira-optica-starter-kit.md">
+        <img src="images/aeroelvira-optica.jpg" alt="AeroElvira Optica OA-7 in MSFS 2024" loading="lazy">
+        <div class="body">
+          <h3>איירו־אלווירה אופטיקה</h3>
+          <p class="en" dir="ltr">AeroElvira Optica OA-7</p>
+          <p class="module" dir="ltr">MSFS 2024 · Got Friends / Microsoft AeroElvira Optica</p>
+        </div>
+      </a>
+      <a class="card" href="https://github.com/cvfr-routemaster/hebrew-msfs2024-plane-manuals/blob/main/aeroprakt-a32/aeroprakt-a32-starter-kit.md">
+        <img src="images/aeroprakt-a32.jpg" alt="Aeroprakt A-32 Vixxen Explorer in MSFS 2024" loading="lazy">
+        <div class="body">
+          <h3>איירופראקט <span dir="ltr">A-32</span> ויקסן</h3>
+          <p class="en" dir="ltr">Aeroprakt A-32 Vixxen Explorer</p>
+          <p class="module" dir="ltr">MSFS 2024 · Got Friends Aeroprakt A-32 Vixxen</p>
+        </div>
+      </a>
+      <a class="card" href="https://github.com/cvfr-routemaster/hebrew-msfs2024-plane-manuals/blob/main/beechcraft-t34b-mentor/beechcraft-t34b-mentor-starter-kit.md">
+        <img src="images/beechcraft-t34b-mentor.jpg" alt="Beechcraft T-34B Mentor in MSFS 2024" loading="lazy">
+        <div class="body">
+          <h3>ביצ׳קראפט <span dir="ltr">T-34B</span> מנטור</h3>
+          <p class="en" dir="ltr">Beechcraft T-34B Mentor</p>
+          <p class="module" dir="ltr">MSFS 2024 · Carenado T-34B Mentor</p>
+        </div>
+      </a>
+      <a class="card" href="https://github.com/cvfr-routemaster/hebrew-msfs2024-plane-manuals/blob/main/dh82-tiger-moth/dh82-tiger-moth-starter-kit.md">
+        <img src="images/dh82-tiger-moth.jpg" alt="de Havilland DH.82A Tiger Moth in MSFS 2024" loading="lazy">
+        <div class="body">
+          <h3>דה־הווילנד טייגר מות׳</h3>
+          <p class="en" dir="ltr">de Havilland DH.82A Tiger Moth</p>
+          <p class="module" dir="ltr">MSFS 2024 · Ant’s Airplanes Tiger Moth DH.82A</p>
+        </div>
+      </a>
+      <a class="card" href="https://github.com/cvfr-routemaster/hebrew-msfs2024-plane-manuals/blob/main/diamond-da42-vi/diamond-da42-vi-starter-kit.md">
+        <img src="images/diamond-da42-vi.jpg" alt="Diamond DA42 VI Twin Star in MSFS 2024" loading="lazy">
+        <div class="body">
+          <h3>דיימונד <span dir="ltr">DA42 VI Twin Star</span></h3>
+          <p class="en" dir="ltr">Diamond DA42 VI Twin Star — Austro AE300</p>
+          <p class="module" dir="ltr">MSFS 2024 · COWS DA42 VI</p>
+        </div>
+      </a>
+    </div>
+
+    <div class="about">
+      <section>
+        <h2>מה יש בכל ערכה</h2>
+        <ul>
+          <li>תכונות המטוס וההבדלים העיקריים לעומת הססנה <span dir="ltr">172</span>: מערכות, טיפול בטיסה וניהול מנוע.</li>
+          <li>טבלאות השוואה וביצועים מול הססנה <span dir="ltr">172</span>.</li>
+          <li>בד״ח לכל שלבי הטיסה הרגילים, מההנעה ועד הכיבוי.</li>
+          <li>נהלי חירום נבחרים.</li>
+        </ul>
+        <p>כל מדריך מתייחס למודול סימולטור מסוים, המופיע בכותרתו. גרסאות מודול וציוד אופציונלי עשויים לשנות חיוויים, נהלים וביצועים.</p>
+      </section>
+      <section dir="ltr" lang="en">
+        <h2>What's in each kit</h2>
+        <ul>
+          <li>Aircraft characteristics and the key differences from the Cessna 172: systems, handling and engine management.</li>
+          <li>Comparison and performance tables against the Cessna 172.</li>
+          <li>Checklists for every normal flight phase, from engine start to shutdown.</li>
+          <li>Selected emergency procedures.</li>
+        </ul>
+        <p>Each guide targets the specific simulator module named in its title. Module versions and optional equipment can change indications, procedures and performance. The guides are written in Hebrew.</p>
+      </section>
+    </div>
+
+    <p class="warning">
+      <strong>לשימוש בסימולטור בלבד — לא לתעופה אמיתית, לתכנון טיסות אמיתי או להדרכת טיסה.</strong><br>
+      <span dir="ltr" lang="en"><strong>For simulated flight only — not for real-world aircraft, flight planning or flight instruction.</strong></span>
+    </p>
+  </main>
+
+  <footer dir="ltr" lang="en">
+    <p>Guide text is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>. Simulator screenshots are excluded from that license; rights in the simulator, aircraft and scenery remain with their owners.</p>
+    <p>Microsoft Flight Simulator 2024 © Microsoft Corporation. Hebrew Aircraft Starter Kits for Simulated Flight was created under Microsoft's "<a href="https://www.xbox.com/en-US/developers/rules">Game Content Usage Rules</a>" using assets from Microsoft Flight Simulator 2024, and it is not endorsed by or affiliated with Microsoft. This is an independent community project, not endorsed by or affiliated with aircraft manufacturers or simulator add-on developers.</p>
+  </footer>
+</body>
+</html>
